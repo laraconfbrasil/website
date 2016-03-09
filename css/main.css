@@ -13,8 +13,21 @@
 html {
     color: #222;
     font-size: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.4;
 }
+
+html,body
+{
+    height: 100%;
+}
+
+body
+{
+    display: table;
+    margin: 0 auto;
+}
+
 
 /*
  * Remove text-shadow in selection highlight:
@@ -95,21 +108,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.container
+{
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
 
 /* ==========================================================================
    Helper classes
