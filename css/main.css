@@ -54,6 +54,10 @@ h6 {
     margin: 0 auto;
 }
 
+.img-circle {
+    border-radius: 10%;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -344,34 +348,35 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .portfolio-item {
+#speakers .speakers-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#speakers .speakers-item .speakers-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#speakers .speakers-item .speakers-link .speakers-hover {
     position: absolute;
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: #fb503b;
+    /*background: #fb503b;*/
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-    opacity: 1;
+#speakers .speakers-item .speakers-link .speakers-hover:hover {
+    opacity: 10;
+    cursor: default;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -382,16 +387,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h3,
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#speakers .speakers-item .speakers-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -399,24 +404,24 @@ section h3.section-subheading {
     background-color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#speakers .speakers-item .speakers-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+#speakers .speakers-item .speakers-caption p {
     margin: 0;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+#speakers * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #speakers .speakers-item {
         margin: 0 0 30px;
     }
 }
@@ -759,7 +764,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
+.speakers-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -770,32 +775,32 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.speakers-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
+.speakers-modal .modal-content p {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content p.item-intro {
+.speakers-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
 
-.portfolio-modal .modal-content ul.list-inline {
+.speakers-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content img {
+.speakers-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .close-modal {
+.speakers-modal .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -805,11 +810,11 @@ ul.social-buttons li a:active {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+.speakers-modal .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+.speakers-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -820,7 +825,7 @@ ul.social-buttons li a:active {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+.speakers-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
