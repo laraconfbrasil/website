@@ -373,7 +373,7 @@ section h3.section-subheading {
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
     opacity: 10;
-    cursor: default;
+    background: #fb503b;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
