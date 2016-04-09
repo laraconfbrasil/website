@@ -860,3 +860,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fb503b;
 }
+
+.modal-ticket {
+    /*width:60%;*/
+    margin:0 auto;
+    height: 50%;
+}

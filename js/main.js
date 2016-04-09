@@ -6,6 +6,8 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+
+    $('#ticket').modal('show');
 });
 
 // Highlight the top nav as scrolling occurs
