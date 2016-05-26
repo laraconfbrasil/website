@@ -7,7 +7,7 @@ $(function() {
         event.preventDefault();
     });
 
-    $('#ticket').modal('show');
+    //$('#ticket').modal('show');
 });
 
 // Highlight the top nav as scrolling occurs
