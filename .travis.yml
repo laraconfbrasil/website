@@ -1,5 +1,12 @@
--after_success:
-  - "git fetch"
-  - "git checkout gh-pages"
-  - "git merge master"
-  - "git push origin gh-pages"
+language: node_js
+before_script:
+- chmod +x ./prebuild.sh
+- ./prebuild.sh
+script:
+- docpad deploy-ghpages --env static
+env:
+  global:
+  - GH_REPO="laraconfbrasil/website"
+branches:
+  only:
+  - master

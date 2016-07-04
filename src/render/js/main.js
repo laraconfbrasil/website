@@ -8,6 +8,8 @@ $(function() {
     });
 
     //$('#ticket').modal('show');
+
+    iFrameResize({checkOrigin: false, heightCalculationMethod: 'documentElementScroll'});
 });
 
 // Highlight the top nav as scrolling occurs
