@@ -452,6 +452,16 @@ layout: default
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="sponsors-member">
+                    <a href="http://codeshare.com.br" target="_blank">
+                        <img src="img/support/codeshare.png"
+                             class="img-responsive img-circle" alt="CodeShare">
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -531,7 +541,7 @@ layout: default
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">                
+            <div class="col-lg-12">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d457.1045338005798!2d-46.623326467331516!3d-23.57432317752452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x62e71453819bc2b8!2sFIAP+Faculdade+de+Tecnologia+da+Informa%C3%A7%C3%A3o+-+Unidade+1!5e0!3m2!1sen!2sbr!4v1464281292287" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
@@ -549,7 +559,7 @@ layout: default
         <div class="row">
             <div>
             <style>.ev-embed{ width:100%;}</style>
-        
+
             <iframe class='ev-embed' src='https://www.eventick.com.br/e/laraconfbrasil' scrolling='no'></iframe>
             Alternativamente, você pode adquirir seu ticket diretamente na <a href='https://www.eventick.com.br/laraconfbrasil' target='_blank'>página do Eventick</a>
             </div>
