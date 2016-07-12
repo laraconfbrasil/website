@@ -1,7 +1,7 @@
 {
-  "name": "no-skeleton.docpad",
+  "name": "laraconf-brasil-website",
   "version": "0.1.0",
-  "description": "New DocPad project without using a skeleton",
+  "description": "Conference website",
   "dependencies": {
     "docpad": "~6.78.6",
     "docpad-plugin-eco": "~2.1.0",

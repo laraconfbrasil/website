@@ -5,6 +5,10 @@ o HTML5 boilerplate como base.
 
 Essa é uma iniciativa para que possamos compartilhar o código fonte que é exibido no site oficial da conferência, podendo assim facilitar a interação entre o evento e a comunidade.
 
+## Utilizamos o Docpad para organizar esse projeto
+
+De maneira simples e eficiênte o docpad nos fornece uma maneira simples e rápida para gerenciar conteúdo estático.
+
 # Quer ser nosso parceiro?
 
 É muito simples ser um de nossos parceiros, forke o repositório e adicione suas informações na seção **COUMNIDADES PARCEIRAS**.
