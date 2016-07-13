@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/laraconfbrasil/website.svg?branch=master)](https://travis-ci.org/laraconfbrasil/website)
+
 # LaraconfBrasil website
 
 Esse é o repositório oficial com o código fonte do [laraconfbrasil](http://laraconfbrasil.com.br) onde utilizamos
