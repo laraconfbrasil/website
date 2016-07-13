@@ -66,5 +66,15 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="sponsors-member">
+                    <a href="http://codeshare.com.br" target="_blank">
+                        <img src="img/support/codeshare.png"
+                             class="img-responsive img-circle" alt="CodeShare">
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
