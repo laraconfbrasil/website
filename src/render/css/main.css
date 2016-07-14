@@ -765,6 +765,13 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#tips {
+    padding: 30px 0 0 0;
+}
+    section#tips h3 {
+        color: #f4645f;
+    }
+
 footer {
     padding: 25px 0;
     text-align: center;

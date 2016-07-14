@@ -63,13 +63,11 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>11:00 - 11:30</h4>
-                                <h4 class="subheading">Vuelando nas CryptoCoins</h4>
+                                <h4 class="subheading">Do Brasil para Portugal</h4>
                             </div>
                             <div class="timeline-body">
-                                <strong>Walker de Alencar</strong>
-                                <p class="text-muted">
-                                    Exemplo prático do uso de  Laravel+Vue+Materialize em projeto com
-                                    Wallets da Decred (Moeda digital criada a partir de um racha do core do Bitcoin).</p>
+                                <strong>Wendell Adriel</strong>
+                                <p class="text-muted">Como construir uma carreira nacional e internacional com o Laravel</p>
                             </div>
                         </div>
                     </li>

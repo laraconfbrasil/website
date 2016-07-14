@@ -1,0 +1,111 @@
+---
+layout: pages
+---
+
+<section id="tips">
+    <div class="container">
+        <h2>Não sabe onde comer no dia do evento?</h2>
+        <p>Veja essas dicas especiais que separamos para você, todas elas estão a menos de 10 minutos do #laraconfBrasil</p>
+        <div class="row">
+            <div class="col-sm-8">
+                <h3>Saudável</h3>
+                Mixirica
+                Av. Lins de Vasconcelos, 980 - Cambuci - São Paulo - SP -CEP 01538-000
+                Telefone: (11) 2309.6011
+                Funcionamento das 11h às 18h
+                <h3>Cozinha internacional</h3>
+                Casa Lins - A Casa da Esfiha
+                Av. Lins de Vasconcelos, 1017 - Cambuci - São Paulo - SP - CEP 01537-000
+                Telefone: (11) 3207.0163
+                Funcionamento das 10h às 23h
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8">
+                <h3>Temakeria e picanharia Lins</h3>
+                Av. Lins de Vasconcelos, 1303 – Aclimação - São Paulo – SP – CEP 01537-001
+                Telefone: (11) 3277.4114
+                Funcionamento das 12h às 23h
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8">
+                <h3>Pastelaria Yokoyama</h3>
+                Av. Lins de Vasconcelos, 1365 – Cambuci - São Paulo – SP – CEP 01537-001
+                Telefone: (11) 3207.9613
+                Funcionamento das 10h às 22h
+            </div>
+        </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Self service</h3>
+            Bebop Restaurante
+            Av. Lins de Vasconcelos, 1018 - Cambuci - São Paulo – SP – CEP 01538-000
+            Telefone: (11) 2364.3065
+            Funcionamento das 12h30 às 16h
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Lanchonete</h3>
+            Subway
+            Av. Lins de Vasconcelos, 1301 – Cambuci - São Paulo – SP – CEP 01537-001
+            Telefone: (11) 2373.7191
+            Funcionamento das 11h às 24h
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Lanches Mansour</h3>
+            Avenida Lins de Vasconcelos, 1333 – Cambuci - São Paulo – SP – CEP 01537-001
+            Telefone: (11) 3209.0664
+            Funcionamento das 11h às 02h30
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Lanchonete e Delivery A CHAPA</h3>
+            Av. Lins de Vasconcelos, 1353 – Cambuci - São Paulo – SP – CEP 01537-001
+            Telefone: (11) 3207-0044
+            Funcionamento das 07h30 às 03h
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Zezinho Lanches</h3>
+            Rua Heitor Peixoto, 591 – Cambuci -São Paulo – SP – CEP 01543-001
+            Telefone: (11) 3271-3651
+            Funcionamento das 12h às 24h
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Vegetariano</h3>
+            Vitalís
+            Av. Lins de Vasconcelos, 1659 – Aclimação - São Paulo – SP – CEP 01537-001
+            Telefone: (11)
+            Funcionamento até às 15h30
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Cafeteria e doceria</h3>
+            Kopenhagen
+            Av. Lins de Vasconcelos, 998 – Cambuci - São Paulo – SP – CEP 01538-000
+            Telefone: (11) 3207-3006
+            Funcionamento das 10h às 18h
+        </div>
+    </div>
+    </div>
+</section>
+
+<%- @partial('map') %>
