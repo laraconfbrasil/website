@@ -23,6 +23,12 @@ layout: default
                     <p class="text-muted">Em breve disponibilizaremos o nosso código de conduta para que a #LaraconfBrasil
                         seja um evento íntegro e de sucesso!</p>
                 </div>
+                
+                <div class="align-facebook-page">
+                    <h4 class="service-heading">Dicas</h4>
+                    <p class="text-muted">Não sabe as opções disponíveis para comer na #laraconfBrasil ? <a href="/tips.html">Clique aqui</a>
+                    e veja as opções que preparamos para você</p>
+                </div>
             </div>
 
             <div class="col-md-6">
