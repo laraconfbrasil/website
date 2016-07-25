@@ -75,6 +75,14 @@
                     </a>
                 </div>
             </div>
+            <div class="col-sm-4">
+                <div class="sponsors-member">
+                    <a href="http://casadocodigo.com.br" target="_blank">
+                        <img src="img/support/casa-do-codigo.png"
+                             class="img-responsive img-circle" alt="Casa do código">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
