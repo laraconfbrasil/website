@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/laraconfbrasil/website.svg?branch=master)](https://travis-ci.org/laraconfbrasil/website)
 
+# [Compre seu ingresso !](https://www.eventick.com.br/laraconfbrasil)
+
 # LaraconfBrasil website
 
 Esse é o repositório oficial com o código fonte do [laraconfbrasil](http://laraconfbrasil.com.br) onde utilizamos
@@ -9,7 +11,17 @@ Essa é uma iniciativa para que possamos compartilhar o código fonte que é exi
 
 ## Utilizamos o Docpad para organizar esse projeto
 
-De maneira simples e eficiênte o docpad nos fornece uma maneira simples e rápida para gerenciar conteúdo estático.
+De maneira  eficiênte o docpad nos fornece uma maneira simples e rápida para gerenciar conteúdo estático.
+
+## Estrutura
+
+A estrutura do projeto esta dividida da seguinte forma:
+
+```
+src 
+|__ partials - todo o conteúdo de fato do site encontra-se aqui
+|__ layouts  - o layout padrão utilizado pelo site
+```
 
 # Quer ser nosso parceiro?
 
