@@ -95,6 +95,23 @@
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
+                                <h4>13:00 - 13:30</h4>
+                                <h4 class="subheading">Vuelando nas CryptoCoins</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <strong>Walker de Alencar</strong>
+                                <p class="text-muted">Exemplo prático do uso de  Laravel+Vue+Materialize em projeto com
+                                    Wallets da Decred (Moeda digital criada a partir de um racha do core do Bitcoin).
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <!--<img class="img-circle img-responsive" src="img/about/4.jpg" alt="">-->
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
                                 <h4>13:30 - 14:30</h4>
                                 <h4 class="subheading">Construindo e mantendo aplicações multi-tenant</h4>
                             </div>
