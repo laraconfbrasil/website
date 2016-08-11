@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-6">
                 <div class="sponsors-member">
                     <a href="http://www.darkmira.com.br/" target="_blank">
                         <img src="img/sponsors/darkmira.jpeg"
@@ -20,7 +20,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-6" style="padding-left: 80px;">
                 <div class="sponsors-member">
                     <a href="https://www.4linux.com.br/" target="_blank">
                         <img src="img/sponsors/4linux.png"
