@@ -130,7 +130,7 @@
 <%- @content %>
 
 
-<%- @getBlock("scripts").add(["/js/vendor/jquery12.js", "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js", "http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js", "https://s3.amazonaws.com/embed-evt/iframeResizer.min.js", "/js/main.js", "/js/plugins.js"]).toHTML() %>
+<%- @getBlock("scripts").add(["/js/vendor/jquery12.js", "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js", "http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js", "https://s3.amazonaws.com/embed-evt/iframeResizer.min.js", "/js/vendor/l10n.js", "/js/main.js", "/js/plugins.js", "/js/localization.js"]).toHTML() %>
 
 <script>
     (function (i, s, o, g, r, a, m) {
