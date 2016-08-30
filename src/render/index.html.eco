@@ -2,191 +2,226 @@
 layout: default
 ---
 
-<section id="services">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">A #LaraconfBrasil</h2>
-                <h3 class="section-subheading text-muted">A maior conferência sobre Laravel do Brasil!</h3>
-            </div>
-        </div>
+<!-- header -->
+<header id="header">
+	<div class="container">
+		<h1 id="logo"><a href="/" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
+		<nav>
+			<ul>
+				<li><a href="#palestrantes" title="palestrantes">palestrantes</a></li>
+				<li><a href="#programacao" title="programação">programação</a></li>
+				<li><a href="#parcerias" title="parcerias">parcerias</a></li>
+				<li><a href="#onde?" title="onde?">onde?</a></li>
+				<li><a href="#contato" title="contato">contato</a></li>
+				<li class="highlight"><a href="#ingresso" title="ingresso">ingresso</a></li>
+			</ul>
+		</nav>
+	</div>
+</header><!-- /header -->
 
-        <div class="row text-center">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                <div>
-                    <h4 class="service-heading">Sobre a #LaraconfBrasil</h4>
-                    <p class="text-muted">Primeiro evento exclusivamente dedicado ao Laravel, com diversas palestras de
-                        pessoas da comunidade e antenadas não somente no mundo laravel mas também do PHP</p>
-                </div>
-                <div class="align-facebook-page">
-                    <h4 class="service-heading">Código de conduta</h4>
-                    <p class="text-muted">Em breve disponibilizaremos o nosso código de conduta para que a #LaraconfBrasil
-                        seja um evento íntegro e de sucesso!</p>
-                </div>
-                
-                <div class="align-facebook-page">
-                    <h4 class="service-heading">Dicas</h4>
-                    <p class="text-muted">Não sabe as opções disponíveis para comer na #laraconfBrasil ? <a href="/tips.html">Clique aqui</a>
-                    e veja as opções que preparamos para você</p>
-                </div>
-            </div>
+<!-- banner -->
+<main id="banner">
+	<div class="container">
+		<figure>
+			<img src="imgs/laraconflogo_2.png" alt="Laraconf2016">
+			<figcaption>
+				<span><b>#</b>LARACONF<b>BRASIL</b></span>
+				<time datetime="2016-08-10">08/10/2016</time>
+			</figcaption>
+			<h2>FALTAM <span class="day">07</span> DIAS</h2>
+			<small>PARA O MAIOR EVENTO DE LARAVEL DO BRASIL</small>
+		</figure>
 
-            <div class="col-md-6">
-                <div class="fb-page" data-href="https://www.facebook.com/laravelconferencebrasil" data-tabs="timeline"
-                     data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
-                    <div class="fb-xfbml-parse-ignore">
-                        <blockquote cite="https://www.facebook.com/laravelconferencebrasil"><a
-                                href="https://www.facebook.com/laravelconferencebrasil">LaraconfBrasil</a></blockquote>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+		<a href="#" title="GARANTA O SEU INGRESSO">GARANTA O SEU INGRESSO</a>
+	</div>
+</main><!-- /banner -->
 
-<%- @partial('speakers') %>
 
-<%- @partial('sponsors') %>
+<!-- SOBRE -->
+<section id="sobre">
+	<div class="container">
+		<div class="col-md-3">
+			<figure>
+				<img src="imgs/image1.png" alt="image">
+			</figure>
+		</div>
+		<div class="col-md-9">
+			<h3>SOBRE A #LARACONFBRASIL</h3>
+			<p>
+				Primeiro evento exclusivamente dedicado ao Laravel, com diversas palestras de pessoas da comunidade e antenadas não somente no mundo laravel mas também do PHP respeitando todos os <a href="#" title="códigos de conduta">códigos de conduta</a>
+			</p>
+		</div>
+	</div>
+</section><!-- /SOBRE -->
 
-<%- @partial('schedule') %>
 
-<%- @partial('support') %>
+<!-- palestrantes -->
+<section id="palestrantes">
+	<div class="container">
+		<figure class="palestrante">
+			<img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
+			<figcaption>
+				<h4>Fábio Vedovelli</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Fábio Vedovelli" title="Fábio Vedovelli">GITHUB - Fábio Vedovelli</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Fábio Vedovelli">LINKEDIN - Fábio Vedovelli</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker2.jpg" alt="Luiz Fernando (Zizaco)">
+			<figcaption>
+				<h4>Luiz Fernando (Zizaco)</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Luiz Fernando (Zizaco)" title="Luiz Fernando (Zizaco)">GITHUB - Luiz Fernando (Zizaco)</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Luiz Fernando (Zizaco)">LINKEDIN - Luiz Fernando (Zizaco)</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker3.jpg" alt="Isaque Souza">
+			<figcaption>
+				<h4>Isaque Souza</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Isaque Souza" title="Isaque Souza">GITHUB - Isaque Souza</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Isaque Souza">LINKEDIN - Isaque Souza</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker4.jpg" alt="Aryel Tupinambá">
+			<figcaption>
+				<h4>Aryel Tupinambá</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Aryel Tupinambá" title="Aryel Tupinambá">GITHUB - Aryel Tupinambá</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Aryel Tupinambá">LINKEDIN - Aryel Tupinambá</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker5.jpg" alt="Edison Pereira da Costa">
+			<figcaption>
+				<h4>Edison Pereira da Costa</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Edison Pereira da Costa" title="Edison Pereira da Costa">GITHUB - Edison Pereira da Costa</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Edison Pereira da Costa">LINKEDIN - Edison Pereira da Costa</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker6.jpg" alt="Walker de Alencar">
+			<figcaption>
+				<h4>Walker de Alencar</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Walker de Alencar" title="Walker de Alencar">GITHUB - Walker de Alencar</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Walker de Alencar">LINKEDIN - Walker de Alencar</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker7.jpg" alt="Wendell Adriel Luiz Silva">
+			<figcaption>
+				<h4>Wendell Adriel Luiz Silva</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Wendell Adriel Luiz Silva" title="Wendell Adriel Luiz Silva">GITHUB - Wendell Adriel Luiz Silva</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Wendell Adriel Luiz Silva">LINKEDIN - Wendell Adriel Luiz Silva</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante">
+			<img src="img/speakers/speaker8.jpg" alt="Diego Hernandes">
+			<figcaption>
+				<h4>Diego Hernandes</h4>
+				<span>PROGRAMADOR</span>
+				<div class="social-media">
+					<a class="icon github" href="http://github.com/Diego Hernandes" title="Diego Hernandes">GITHUB - Diego Hernandes</a>
+					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Diego Hernandes">LINKEDIN - Diego Hernandes</a>
+				</div>
+			</figcaption>
+		</figure>
+	</div>
+</section><!-- /palestrantes -->
 
-<%- @partial('communities') %>
 
-<%- @partial('map') %>
+<!-- programacao -->
+<section id="programacao">
+	<div class="container">
+		<h3>PROGRAMAÇÃO #LARACONFBRASIL</h3>
+		<table>
+			<tbody>
+				<tr class="icon lunch">
+					<td>
+						<time datetime="2016-08-10 08:00:00">08:00</time>
+					</td>
+					<td>
+						<span>CREDENCIAMNETO</span>
+					</td>
+				</tr>
+				<tr class="icon lunch">
+					<td>
+						<time datetime="2016-08-10 08:00:00">08:00</time>
+					</td>
+					<td>
+						<small>MATHEUS MARABESI</small>
+						<span>CREDENCIAMNETO</span>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+						</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</section><!-- /programacao -->
 
-<%- @partial('tickets') %>
 
-<section id="contacts">
-    <div class="row" style="min-height: 700px;">
-        <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Entre em contato com a #laraconfBrasil!</h2>
-            <h3 class="section-subheading text-muted">Quem falar com a gente ?</h3>
+<!-- parcerias -->
+<section id="parcerias">
+	<div class="container">
+		<section class="comunidades">
+			
+		</section>
+		<section class="apoios">
+			
+		</section>
+	</div>
+</section><!-- /parcerias -->
 
-            <p>Estamos de portas abertas para receber sugestões de melhoria, contatos para parcerias e patrocínios. Para isso
-            é muito simples, basta manda um e-mail para a nossa caixa em <a href="mailto:contato@laraconfbrasil.com.br">contato@laraconfbrasil.com.br</a></p>
-        </div>
-        <a href="mailto:contato@laraconfbrasil.com.br">
-            <img src="img/mail.png" class="img-responsive text-center" style="margin: 0 auto;"/>
-        </a>
-    </div>
-</section>
+
+<!-- onde -->
+<section id="onde">
+	<div class="container">
+		
+	</div>
+</section><!-- /onde -->
+
+
+<!-- ingressos -->
+<section id="ingressos">
+	<div class="container">
+		<h3>INGRESSOS</h3>
+
+	</div>
+</section><!-- /ingressos -->
+
+
+<!-- contato -->
+<section id="contato">
+	<div class="container">
+
+	</div>
+</section><!-- /contato -->
+
+<!-- footer -->
 <footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <span class="copyright">Copyright © LaraconfBrasil 2016</span>
-            </div>
-        </div>
-    </div>
-</footer>
+	<div class="container">
 
-<div class="speakers-modal modal fade" id="speakersModal1" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Fábio Vedovelli</h2>
-                        <img class="img-responsive img-centered"
-                             src="img/speakers/speaker1.jpg"
-                             alt="">
-                        <p><strong>Fábio Vedovelli</strong> é desenvolvedor desde 2000 e programa em PHP e Javascript.
-                            Entusiasta de Laravel
-                            Framework desde o primeiro contato em 2013, já desenvolveu diversos projetos no Brasil e
-                            exterior
-                            usando a ferramenta. É o criador e responsável pelo site Vedcasts.com.br, no qual
-                            dispobiliza
-                            video aulas sobre programação para a web.
-                        </p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
-                            Fechar
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="speakers-modal modal fade" id="speakersModal2" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Luiz Fernando (Zizaco)</h2>
-                        <img class="img-responsive img-centered"
-                             src="img/speakers/speaker2.jpg"
-                             alt="">
-                        <p>
-                            <strong>Luiz Fernando (Zizaco)</strong> já trabalhou com diversas linguagens e frameworks
-                            populares como Codeigniter, CakePHP,
-                            Zend e Rails. Autor de diversos artigos, tutoriais e projetos opensource, além de ser
-                            palestrante nos
-                            hangouts da comunidade Laravel Brasil e de ter feito apresentações em comunidades como
-                            MongoDB User Group,
-                            Caravana web, Ruby User Group (GURU Sorocaba), entre outros.
-                        </p>
-                        <p>
-                            Desenvolvedor pioneiro de Laravel no Brasil, trabalha com o framework no dia-a-dia, com
-                            vivência e
-                            pragmatismo em desenvolvimento web utilizando diversas tecnologias.
-                        </p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
-                            Fechar
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="speakers-modal modal fade" id="speakersModal3" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Isaque Souza</h2>
-                        <img class="img-responsive img-centered"
-                             src="img/speakers/speaker3.jpg"
-                             alt=""/>
-                        <p>
-                            <strong>Isaque Souza</strong> é desenvolvedor de sistemas com PHP e Javascript desde 2008,
-                            sempre focado em inovações tecnológicas e com passagens por diversos frameworks de mercado
-                            como
-                            Zend, Laravel, CodeIgniter e outros.
-                            Consultor em Zend e Laravel, já participou de projetos públicos e privados para FGV, Zurich,
-                            IdealInvest e recentemente responsável pela versão 1.0 do Laravel PagSeguro.
-                        </p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
-                            Fechar
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
+	</div>
+</footer><!-- /footer -->
