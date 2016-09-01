@@ -22,17 +22,21 @@ layout: default
 <!-- banner -->
 <main id="banner">
 	<div class="container">
-		<figure>
-			<img src="imgs/laraconflogo_2.png" alt="Laraconf2016">
-			<figcaption>
-				<span><b>#</b>LARACONF<b>BRASIL</b></span>
-				<time datetime="2016-08-10">08/10/2016</time>
-			</figcaption>
-			<h2>FALTAM <span class="day">07</span> DIAS</h2>
-			<small>PARA O MAIOR EVENTO DE LARAVEL DO BRASIL</small>
-		</figure>
-
-		<a href="#" title="GARANTA O SEU INGRESSO">GARANTA O SEU INGRESSO</a>
+		<div class="wrapper">
+			<figure>
+				<img src="img/laravel_logo.png" alt="Laraconf2016">
+				<figcaption>
+					<span><b>#</b>LARACONF<b>BRASIL</b></span>
+					<time datetime="2016-08-10">08/10/2016</time>
+				</figcaption>
+				<h2>FALTAM <span class="day">07</span> DIAS</h2>
+				<small>PARA O MAIOR EVENTO DE LARAVEL DO BRASIL</small>
+			</figure>
+			<a class="btn btn-border" href="#" title="GARANTA O SEU INGRESSO">GARANTA O SEU INGRESSO</a>
+		</div>
+	</div>
+	<div class="scroll-down">
+		<span class="arrow"></span>
 	</div>
 </main><!-- /banner -->
 
@@ -57,13 +61,20 @@ layout: default
 
 <!-- palestrantes -->
 <section id="palestrantes">
-	<div class="container">
+	
 		<figure class="palestrante">
 			<img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
 			<figcaption>
 				<h4>Fábio Vedovelli</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Fábio Vedovelli" title="Fábio Vedovelli">GITHUB - Fábio Vedovelli</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Fábio Vedovelli">LINKEDIN - Fábio Vedovelli</a>
 				</div>
@@ -74,7 +85,14 @@ layout: default
 			<figcaption>
 				<h4>Luiz Fernando (Zizaco)</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Luiz Fernando (Zizaco)" title="Luiz Fernando (Zizaco)">GITHUB - Luiz Fernando (Zizaco)</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Luiz Fernando (Zizaco)">LINKEDIN - Luiz Fernando (Zizaco)</a>
 				</div>
@@ -85,7 +103,14 @@ layout: default
 			<figcaption>
 				<h4>Isaque Souza</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Isaque Souza" title="Isaque Souza">GITHUB - Isaque Souza</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Isaque Souza">LINKEDIN - Isaque Souza</a>
 				</div>
@@ -96,7 +121,14 @@ layout: default
 			<figcaption>
 				<h4>Aryel Tupinambá</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Aryel Tupinambá" title="Aryel Tupinambá">GITHUB - Aryel Tupinambá</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Aryel Tupinambá">LINKEDIN - Aryel Tupinambá</a>
 				</div>
@@ -107,7 +139,14 @@ layout: default
 			<figcaption>
 				<h4>Edison Pereira da Costa</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Edison Pereira da Costa" title="Edison Pereira da Costa">GITHUB - Edison Pereira da Costa</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Edison Pereira da Costa">LINKEDIN - Edison Pereira da Costa</a>
 				</div>
@@ -118,7 +157,14 @@ layout: default
 			<figcaption>
 				<h4>Walker de Alencar</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Walker de Alencar" title="Walker de Alencar">GITHUB - Walker de Alencar</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Walker de Alencar">LINKEDIN - Walker de Alencar</a>
 				</div>
@@ -129,7 +175,14 @@ layout: default
 			<figcaption>
 				<h4>Wendell Adriel Luiz Silva</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Wendell Adriel Luiz Silva" title="Wendell Adriel Luiz Silva">GITHUB - Wendell Adriel Luiz Silva</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Wendell Adriel Luiz Silva">LINKEDIN - Wendell Adriel Luiz Silva</a>
 				</div>
@@ -140,20 +193,26 @@ layout: default
 			<figcaption>
 				<h4>Diego Hernandes</h4>
 				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
 				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
 					<a class="icon github" href="http://github.com/Diego Hernandes" title="Diego Hernandes">GITHUB - Diego Hernandes</a>
 					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Diego Hernandes">LINKEDIN - Diego Hernandes</a>
 				</div>
 			</figcaption>
 		</figure>
-	</div>
 </section><!-- /palestrantes -->
 
 
 <!-- programacao -->
 <section id="programacao">
 	<div class="container">
-		<h3>PROGRAMAÇÃO #LARACONFBRASIL</h3>
+		<h3>PROGRAMAÇÃO <b>#</b>LARACONF<b>BRASIL</b></h3>
 		<table>
 			<tbody>
 				<tr class="icon lunch">
@@ -225,3 +284,17 @@ layout: default
 
 	</div>
 </footer><!-- /footer -->
+
+
+<section id="map">
+		<div class="text">
+	        <h3>Onde ?</h3>
+	        <strong >FIAP Faculdade de Tecnologia</strong>
+	        <p>
+	        	Av. Lins de Vasconcelos, 1264 - Aclimação, São Paulo - SP, 01538-001
+	        </p>
+		</div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d457.1045338005798!2d-46.623326467331516!3d-23.57432317752452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x62e71453819bc2b8!2sFIAP+Faculdade+de+Tecnologia+da+Informa%C3%A7%C3%A3o+-+Unidade+1!5e0!3m2!1sen!2sbr!4v1464281292287" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+</section>
+
+<%- @partial('tickets') %>
