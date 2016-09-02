@@ -8,6 +8,36 @@ $gray: #2D3138;
 	font-family: "Raleway",sans-serif;
 }
 
+@-webkit-keyframes back_animation {
+    0% {
+        -webkit-transform: scale(1)
+    }
+
+    50% {
+        -webkit-transform: scale(1.8)
+    }
+
+    100% {
+        -webkit-transform: scale(1)
+    }
+}
+
+@keyframes back_animation {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    50% {
+        -webkit-transform: scale(1.8);
+        transform: scale(1.8)
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
 .btn{
 	padding: 10px 14px;
 	&.btn-border{
@@ -78,10 +108,38 @@ $gray: #2D3138;
 	}
 }
 
-
+#sobre{
+	h3{
+		font-size: 30px;
+		font-weight: bold;
+		display: block;
+		text-align: center;
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+		position: relative;
+		&::after{
+			content: "";
+			display: block;
+			height: 3px;
+			width: 100px;
+			max-width: 100%;
+			margin: auto;
+			background: #CCC;
+			position: absolute;
+			left: 50%;
+			transform: translateX(-50%);
+			bottom: 0px;
+		}
+	}
+	p{
+		font-size: 20px;
+		max-width: 600px;
+		margin: auto;
+		display: block;
+	}
+}
 #banner{
 	position: relative;
-	background: url(../img/bg-banner.jpg) no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 	overflow: hidden;
@@ -110,6 +168,7 @@ $gray: #2D3138;
 	*{
 		text-align: center;
 	}
+	
 	.scroll-down{
 		position: absolute;
 		left: 0px;
@@ -153,6 +212,7 @@ $gray: #2D3138;
 		top: 50%;
 		transform: translate(-50%,-50%) translateY(-23px);
 		color: white;
+		z-index: 10;
 		figure{
 			img{
 				width: 49%;
@@ -171,6 +231,21 @@ $gray: #2D3138;
 		top: 0px;
 		right: 0px;
 		bottom: 0px;
+	}
+	&::after{
+		content: "";
+		z-index: -1;
+		background: url(../img/bg-banner.jpg) no-repeat center;
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0px;
+		top: 0px;
+		right: 0px;
+		bottom: 0px;
+		background-size: cover;
+		-webkit-animation: 60s ease 0s normal none infinite back_animation;
+    	animation: 60s ease 0s normal none infinite back_animation;
 	}
 }
 
@@ -265,6 +340,11 @@ $gray: #2D3138;
 			background : linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
 			transition: all 0.5s cubic-bezier(0.19,1,0.22,1);
 		}
+		p{
+			max-width: 400px;
+			margin: auto;
+			display: block;
+		}
 		&:hover {
 			figcaption{
 				height: 100%;
@@ -347,6 +427,55 @@ $gray: #2D3138;
 
 }
 
+#parcerias{
+	padding-top: 0px;
+	h2{
+		display: block;
+		background: $pink;
+		width: 100%;
+		padding: 20px;
+		text-align: center;
+		margin: auto;
+		color: white;
+	}
+	h3{
+		text-align: center;
+		display: block;
+		// background: darken($pink,10%);
+	}
+	.grid{
+		img{
+			height: 55px;
+		}
+		.height-100{
+			height: 100px;
+		}
+	}
+	>section{
+		border-bottom: solid 1px rgba(0,0,0,0.2);
+		padding-bottom: 10px;
+		&:last-child{
+			border-bottom: none;
+		}
+	}
+
+}
+
+.grid{
+	display: flex;
+	flex-flow: row wrap;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+	> a,
+	> img{
+		object-fit: contain;
+		margin: 20px;
+	}
+
+}
+
+
 body > section{
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -362,12 +491,17 @@ body > section{
 		*{
 			color: white;
 		}
-	}	
+	}
+	iframe{
+		width: 100%;
+		height: 300px;
+	}
 }
 
 #tickets{
 	iframe{
 		width: 100%;
 		border: none;
+		display: block;
 	}
 }
