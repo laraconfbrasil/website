@@ -62,150 +62,134 @@ layout: default
 <!-- palestrantes -->
 <section id="palestrantes">
 	
-		<figure class="palestrante">
-			<img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
-			<figcaption>
-				<h4>Fábio Vedovelli</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Fábio Vedovelli" title="Fábio Vedovelli">GITHUB - Fábio Vedovelli</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Fábio Vedovelli">LINKEDIN - Fábio Vedovelli</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker2.jpg" alt="Luiz Fernando (Zizaco)">
-			<figcaption>
-				<h4>Luiz Fernando (Zizaco)</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Luiz Fernando (Zizaco)" title="Luiz Fernando (Zizaco)">GITHUB - Luiz Fernando (Zizaco)</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Luiz Fernando (Zizaco)">LINKEDIN - Luiz Fernando (Zizaco)</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker3.jpg" alt="Isaque Souza">
-			<figcaption>
-				<h4>Isaque Souza</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Isaque Souza" title="Isaque Souza">GITHUB - Isaque Souza</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Isaque Souza">LINKEDIN - Isaque Souza</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker4.jpg" alt="Aryel Tupinambá">
-			<figcaption>
-				<h4>Aryel Tupinambá</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Aryel Tupinambá" title="Aryel Tupinambá">GITHUB - Aryel Tupinambá</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Aryel Tupinambá">LINKEDIN - Aryel Tupinambá</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker5.jpg" alt="Edison Pereira da Costa">
-			<figcaption>
-				<h4>Edison Pereira da Costa</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Edison Pereira da Costa" title="Edison Pereira da Costa">GITHUB - Edison Pereira da Costa</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Edison Pereira da Costa">LINKEDIN - Edison Pereira da Costa</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker6.jpg" alt="Walker de Alencar">
-			<figcaption>
-				<h4>Walker de Alencar</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Walker de Alencar" title="Walker de Alencar">GITHUB - Walker de Alencar</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Walker de Alencar">LINKEDIN - Walker de Alencar</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker7.jpg" alt="Wendell Adriel Luiz Silva">
-			<figcaption>
-				<h4>Wendell Adriel Luiz Silva</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Wendell Adriel Luiz Silva" title="Wendell Adriel Luiz Silva">GITHUB - Wendell Adriel Luiz Silva</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Wendell Adriel Luiz Silva">LINKEDIN - Wendell Adriel Luiz Silva</a>
-				</div>
-			</figcaption>
-		</figure>
-		<figure class="palestrante">
-			<img src="img/speakers/speaker8.jpg" alt="Diego Hernandes">
-			<figcaption>
-				<h4>Diego Hernandes</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
-				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
-					<a class="icon github" href="http://github.com/Diego Hernandes" title="Diego Hernandes">GITHUB - Diego Hernandes</a>
-					<a class="icon linkedin" href="http://linkedin.com/ssa" title="LINKEDIN - Diego Hernandes">LINKEDIN - Diego Hernandes</a>
-				</div>
-			</figcaption>
-		</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
+		<figcaption>
+			<h4>Fábio Vedovelli</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker2.jpg" alt="Luiz Fernando (Zizaco)">
+		<figcaption>
+			<h4>Luiz Fernando (Zizaco)</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker3.jpg" alt="Isaque Souza">
+		<figcaption>
+			<h4>Isaque Souza</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker4.jpg" alt="Aryel Tupinambá">
+		<figcaption>
+			<h4>Aryel Tupinambá</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker5.jpg" alt="Edison Pereira da Costa">
+		<figcaption>
+			<h4>Edison Pereira da Costa</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker6.jpg" alt="Walker de Alencar">
+		<figcaption>
+			<h4>Walker de Alencar</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker7.jpg" alt="Wendell Adriel Luiz Silva">
+		<figcaption>
+			<h4>Wendell Adriel Luiz Silva</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>Silva</a>
+			</div>
+		</figcaption>
+	</figure>
+	<figure class="palestrante">
+		<img src="img/speakers/speaker8.jpg" alt="Diego Hernandes">
+		<figcaption>
+			<h4>Diego Hernandes</h4>
+			<span>PROGRAMADOR</span>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+			</p>
+			<div class="social-media">
+				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+				<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+			</div>
+		</figcaption>
+	</figure>
 </section><!-- /palestrantes -->
 
 
@@ -244,37 +228,92 @@ layout: default
 <!-- parcerias -->
 <section id="parcerias">
 	<div class="container">
+		<h2>Parcerias</h2>
+		<section class="patrocinadores">
+			<h3>Patrocinadores</h3>
+			<div class="grid">
+				<a href="http://www.darkmira.com.br/">
+					<img src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
+				</a>
+				<a href="https://www.4linux.com.br/">
+					<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
+				</a>
+			</div>
+		</section>
 		<section class="comunidades">
-			
+			<h3>Comunidades</h3>
+			<div class="grid">
+				<a href="https://www.facebook.com/groups/laravelsp/" target="_blank">
+					<img src="img/communities/logo_laravel_sp.png" alt="Lara vel São Paulo" height="300">
+				</a>
+				<a href="http://phpcomrapadura.org/" target="_blank">
+					<img src="img/communities/phpcomrapadura.png" alt="PHP com rapadura">
+				</a>
+				<a href="http://www.phpdf.org.br/" target="_blank">
+					<img src="img/communities/php_df.png" 					alt="PHP DF - Comunidade de desenvolvedores PHP do Distrito Federal">
+				</a>
+				<a href="http://www.rumoacertificacaophp.com/" target="_blank">
+					<img src="img/communities/ruma_a_certificacao.png" alt="Rumo a certificaçao PHP">
+				</a>
+				<a href="http://www.phprs.com.br/" target="_blank">
+					<img src="img/communities/phprs.png" alt="Comunidade de desenvolvedores do Rio Grande do Sul" titlComunidade de desenvolvedores do Rio Grande do Sul">
+				</a>
+				<a href="http://www.phpsp.org.br/" target="_blank">
+					<img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" titlComunidade de desenvolvedores de São Paulo">
+				</a>
+			</div>
 		</section>
 		<section class="apoios">
-			
+			<h3>Apoios</h3>
+			<div class="grid">
+				<img src="img/support/fiap.png"/>
+				<img src="img/support/webschool.png" alt="Webschool.io" />
+				<img src="img/support/editora-novatec.png" alt="Editora Novatec" />
+				<img src="img/support/gerente-de-sucesso.png" alt="Editora Novatec" />
+				<img src="img/support/treinaweb.png" alt="Treina Web" />
+				<img src="img/support/codecast.png" alt="Codecast" />
+				<img src="img/support/codeshare.png" alt="CodeShare" />
+				<img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
+				<img src="img/support/imasters.png" alt="Imasters" />
+			</div>
 		</section>
 	</div>
 </section><!-- /parcerias -->
 
 
-<!-- onde -->
-<section id="onde">
-	<div class="container">
-		
+
+<section id="map">
+	<div class="text">
+		<h3>Onde ?</h3>
+		<strong >FIAP Faculdade de Tecnologia</strong>
+		<p>
+			Av. Lins de Vasconcelos, 1264 - Aclimação, São Paulo - SP, 01538-001
+		</p>
 	</div>
-</section><!-- /onde -->
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d457.1045338005798!2d-46.623326467331516!3d-23.57432317752452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x62e71453819bc2b8!2sFIAP+Faculdade+de+Tecnologia+da+Informa%C3%A7%C3%A3o+-+Unidade+1!5e0!3m2!1sen!2sbr!4v1464281292287" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+</section>
 
-
-<!-- ingressos -->
-<section id="ingressos">
-	<div class="container">
-		<h3>INGRESSOS</h3>
-
-	</div>
-</section><!-- /ingressos -->
+<%- @partial('tickets') %>
 
 
 <!-- contato -->
 <section id="contato">
 	<div class="container">
-
+		<h3>Entre em contato</h3>
+		<form action="#" method="post" accept-charset="utf-8">
+			<div class="form-group">
+				<label for="nome">NOME</label>
+				<input type="text" id="nome" name="nome" class="form-control" />
+			</div>
+			<div class="form-group">
+				<label for="email">EMAIL</label>
+				<input type="email" id="email" name="email" class="form-control" />
+			</div>
+			<div class="form-group">
+				<label for="description">DESCRIÇÃO</label>
+				<textarea rows="5" cols="5" id="description" name="description" class="form-control"></textarea>
+			</div>
+		</form>
 	</div>
 </section><!-- /contato -->
 
@@ -285,16 +324,3 @@ layout: default
 	</div>
 </footer><!-- /footer -->
 
-
-<section id="map">
-		<div class="text">
-	        <h3>Onde ?</h3>
-	        <strong >FIAP Faculdade de Tecnologia</strong>
-	        <p>
-	        	Av. Lins de Vasconcelos, 1264 - Aclimação, São Paulo - SP, 01538-001
-	        </p>
-		</div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d457.1045338005798!2d-46.623326467331516!3d-23.57432317752452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x62e71453819bc2b8!2sFIAP+Faculdade+de+Tecnologia+da+Informa%C3%A7%C3%A3o+-+Unidade+1!5e0!3m2!1sen!2sbr!4v1464281292287" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
-</section>
-
-<%- @partial('tickets') %>

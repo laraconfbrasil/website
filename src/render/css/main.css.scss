@@ -29,8 +29,8 @@ $gray: #2D3138;
 	top:0px;
 	left:0px;
 	right: 0px;
-	height: 75px;
 	z-index: 10;
+	background-color: rgba(10, 23, 93, 0.92);
 	#logo{
 		float: left;
 		margin: 0px;
@@ -80,12 +80,14 @@ $gray: #2D3138;
 
 
 #banner{
+	position: relative;
 	background: url(../img/bg-banner.jpg) no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 	overflow: hidden;
 	.container{
 		height: 100vh;
+		height: calc(100vh - 100px);
 		position: relative;
 		z-index: 1;
 	}
@@ -96,7 +98,9 @@ $gray: #2D3138;
 		font-size: 24px;
 	}
 	small{
-		font-size: 37px;
+		font-size: 27px;
+	    line-height: 30px;
+	    font-weight: bold;
 		color: $pink;
 	}
 	h2{
@@ -151,7 +155,7 @@ $gray: #2D3138;
 		color: white;
 		figure{
 			img{
-				width: 42%;
+				width: 49%;
 			}
 			margin-bottom: 30px;
 		}
@@ -359,4 +363,11 @@ body > section{
 			color: white;
 		}
 	}	
+}
+
+#tickets{
+	iframe{
+		width: 100%;
+		border: none;
+	}
 }
