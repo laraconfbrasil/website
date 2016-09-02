@@ -102,6 +102,15 @@
                     </a>
                 </div>
             </div>
+
+            <div class="col-sm-4">
+                <div class="sponsors-member">
+                    <a href="http://devnaestrada.com.br" target="_blank">
+                        <img src="img/support/dne.png"
+                             class="img-responsive img-circle" alt="Dev na estrada"/>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
