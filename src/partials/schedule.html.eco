@@ -96,13 +96,16 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>13:00 - 13:30</h4>
-                                <h4 class="subheading">Vuelando nas CryptoCoins</h4>
+                                <h4 class="subheading">Como sobreviver no Game of Thrones do Desenvolvimento</h4>
                             </div>
                             <div class="timeline-body">
-                                <strong>Walker de Alencar</strong>
-                                <p class="text-muted">Exemplo prático do uso de  Laravel+Vue+Materialize em projeto com
-                                    Wallets da Decred (Moeda digital criada a partir de um racha do core do Bitcoin).
-                                </p>
+                                <strong>Ravan Scafi</strong>
+                                <p class="text-muted">Ao menor deslize, George R. R. Martin pode ser implacável com
+                                    seus personagens. A vida também tem dessas ¯\_(ツ)_/¯ e erros podem acabar com seus
+                                    projetos. Startups vêm e vão todos os dias, independentemente do nível técnico de
+                                    suas equipes. Não seja o próximo Jon Snow, aprenda enquanto é tempo e garanta que
+                                    seu novo projeto não vá virar comida de dragões. Estruture sua aplicação, mantenha
+                                    sua visão e conquiste Westeros.</p>
                             </div>
                         </div>
                     </li>
