@@ -6,6 +6,11 @@ layout: default
 <header id="header">
 	<div class="container">
 		<h1 id="logo"><a href="/" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
+		<a id="btnHamburgerMenu" href="#" title="Abrir Menu">
+			<span></span>
+			<span></span>
+			<span></span>
+		</a>
 		<nav>
 			<ul>
 				<li><a href="#palestrantes" title="palestrantes">palestrantes</a></li>
@@ -13,9 +18,10 @@ layout: default
 				<li><a href="#parcerias" title="parcerias">parcerias</a></li>
 				<li><a href="#onde?" title="onde?">onde?</a></li>
 				<li><a href="#contato" title="contato">contato</a></li>
-				<li class="highlight"><a href="#ingresso" title="ingresso">ingresso</a></li>
+				<li class="highlight"><a href="#ingressos" title="ingressos">ingressos</a></li>
 			</ul>
 		</nav>
+
 	</div>
 </header><!-- /header -->
 
@@ -33,6 +39,9 @@ layout: default
 				<small>PARA O MAIOR EVENTO DE LARAVEL DO BRASIL</small>
 			</figure>
 			<a class="btn btn-border" href="#" title="GARANTA O SEU INGRESSO">GARANTA O SEU INGRESSO</a>
+			<div class="social-media">
+				<a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">Acompanhe também o nosso Facebook!</a>
+			</div>
 		</div>
 	</div>
 	<div class="scroll-down">
@@ -63,9 +72,7 @@ layout: default
 			<h4>Fábio Vedovelli</h4>
 			<span>PROGRAMADOR</span>
 			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				Laravel e front end: dicas para dominar a integração com Gulp/Elixir
 			</p>
 			<div class="social-media">
 				<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
@@ -194,7 +201,7 @@ layout: default
 		<h3>PROGRAMAÇÃO <b>#</b>LARACONF<b>BRASIL</b></h3>
 		<table>
 			<tbody>
-				<tr class="icon lunch">
+				<tr class="icon credenciamento">
 					<td>
 						<time datetime="2016-08-10 08:00:00">08:00</time>
 					</td>
@@ -202,13 +209,21 @@ layout: default
 						<span>CREDENCIAMNETO</span>
 					</td>
 				</tr>
-				<tr class="icon lunch">
+				<tr class="icon coffee">
+					<td>
+						<time datetime="2016-08-10 08:00:00">08:00</time>
+					</td>
+					<td>
+						<span>COFFEE</span>
+					</td>
+				</tr>
+				<tr class="icon palestra">
 					<td>
 						<time datetime="2016-08-10 08:00:00">08:00</time>
 					</td>
 					<td>
 						<small>MATHEUS MARABESI</small>
-						<span>CREDENCIAMNETO</span>
+						<span>PALESTRA SOBRE CREDENCIAMNETO</span>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
 						</p>
@@ -277,7 +292,7 @@ layout: default
 
 
 <!-- map -->
-<section id="map">
+<section id="onde">
 	<div class="text">
 		<h3>Onde ?</h3>
 		<strong >FIAP Faculdade de Tecnologia</strong>
@@ -289,7 +304,7 @@ layout: default
 </section><!-- /map -->
 
 <!-- tickets -->
-<section id="tickets">
+<section id="ingressos">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -330,6 +345,149 @@ layout: default
 		</form>
 	</div>
 </section><!-- /contato -->
+
+
+<section id="dicas">
+    <div class="container">
+        <h2>Não sabe onde comer no dia do evento?</h2>
+        <p>Veja essas dicas especiais que separamos para você, todas elas estão a menos de 10 minutos do #laraconfBrasil</p>
+        <div class="grid grid-lg-2">
+	        <div>
+	        	<h3>Saudável - Mixirica</h3>
+	        	<p>
+	        		Av. Lins de Vasconcelos, 980 - Cambuci - São Paulo - SP -CEP 01538-000
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 2309.6011</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>11h às 18h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Cozinha internacional</h3>
+	        	<p>
+		        	Casa Lins - A Casa da Esfiha
+		        	Av. Lins de Vasconcelos, 1017 - Cambuci - São Paulo - SP - CEP 01537-000
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 3207.0163</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>10h às 23h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Temakeria e picanharia Lins</h3>
+	        	<p>
+	        		Av. Lins de Vasconcelos, 1303 – Aclimação - São Paulo – SP – CEP 01537-001
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 3277.4114</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>12h às 23h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Pastelaria Yokoyama</h3>
+	        	<p>
+	        		Av. Lins de Vasconcelos, 1365 – Cambuci - São Paulo – SP – CEP 01537-001
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 3207.9613</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>10h às 22hh</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Self service - Bebop Restaurante</h3>
+	        	<p>
+	        		Av. Lins de Vasconcelos, 1018 - Cambuci - São Paulo – SP – CEP 01538-000
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 2364.3065</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>12h30 às 16h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Lanchonete - Subway</h3>
+	        	<p>
+	        		Av. Lins de Vasconcelos, 1301 – Cambuci - São Paulo – SP – CEP 01537-001
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd> (11) 2373.7191</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>11h às 24h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Lanches Mansour</h3>
+	        	<p>
+	        		Avenida Lins de Vasconcelos, 1333 – Cambuci - São Paulo – SP – CEP 01537-001
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11)&nbsp;3209.0664</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>11h às 02h30</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Lanchonete e Delivery A CHAPA</h3>
+	        	<p>
+	        		Av. Lins de Vasconcelos, 1353 – Cambuci - São Paulo – SP – CEP 01537-001
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 3207-0044</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>07h30 às 03h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Zezinho Lanches</h3>
+	        	<p>
+	        		Rua Heitor Peixoto, 591 – Cambuci -São Paulo – SP – CEP 01543-001
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 3271-3651</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>12h às 24h</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Vegetariano</h3>
+	        	<p>
+		        	Vitalís
+		        	Av. Lins de Vasconcelos, 1659 – Aclimação - São Paulo – SP – CEP 01537-001
+	        	</p>
+	        	<dl>
+	        		<dt>Funcionamento</dt>
+	        		<dd>até às 15h30</dd>
+	        	</dl>
+	        </div>
+	        <div>
+	        	<h3>Cafeteria e doceria</h3>
+	        	<p>
+		        	Kopenhagen
+		        	Av. Lins de Vasconcelos, 998 – Cambuci - São Paulo – SP – CEP 01538-000
+	        	</p>
+	        	<dl>
+	        		<dt>Telefone:</dt>
+	        		<dd>(11) 3207-3006</dd>
+	        		<dt>Funcionamento das</dt>
+	        		<dd>10h às 18h</dd>
+	        	</dl>
+	        </div>
+        </div>
+    </div>
+</section>
 
 <!-- footer -->
 <footer>
