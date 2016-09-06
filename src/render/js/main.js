@@ -1,22 +1,25 @@
 function qs(el){
     return document.querySelector(el);
 };
+function qsa(el){
+    return document.querySelectorAll(el);
+};
 
 var cabecalho = document.getElementById('header'),
     banner = document.getElementById('banner'),
     bannerHeight = banner.offsetHeight;
 
+
 var sectionsIds = [
-    "#banner",
     "#sobre",
     "#palestrantes",
     "#programacao",
     "#parcerias",
-    "#map",
-    "#tickets",
+    "#onde",
+    "#ingressos",
     "#contato",
+    "#dicas"
 ];
-
 var sections = [];
 for (var i = 0; i < sectionsIds.length; i++) {
     var id = sectionsIds[i];
@@ -24,7 +27,6 @@ for (var i = 0; i < sectionsIds.length; i++) {
 }
 function changeBodyClass(section){
     var idName = section.getAttribute('id');
-    // qs("body").setAttribute('class',idName);
 }
 
 
@@ -37,6 +39,49 @@ function daydiff(first, second) {
     return Math.round((second-first)/(1000*60*60*24));
 }
 // HANDLERS
+
+var interval;
+function animate(time,callback){
+    var now = new Date();
+
+    clearInterval(interval);
+    var go = function (){
+        var timePassed = new Date() - now;
+        var prop = timePassed/time;
+        
+        if (timePassed < time){
+            interval = setTimeout(function (){
+                go();
+            },1000/60)
+        }else{
+            prop = 1;
+        }
+        if (callback)
+            callback( 1 - Math.pow(1 - prop,3));
+    }
+    go();
+}
+
+[].forEach.call(qsa("#header nav a, #banner .wrapper > a"),function (el){
+    el.onclick=function (ev){
+        ev.preventDefault();
+        var sectionId = el.getAttribute('href');
+        var sectionY = qs(sectionId).offsetTop - 60;
+
+        var windowY = window.pageYOffset;
+        var diff =  sectionY - windowY;
+
+
+        console.log(sectionY);
+        qs("#header nav").setAttribute('class','');
+        animate(1000,function (prop){
+            // console.log(prop);
+            var newScrollYValue = (diff*prop) + windowY;
+            // console.log(newScrollYValue);
+            window.scrollTo(0,newScrollYValue);
+        });
+    }
+});
 
 // onready
 document.onready=function (ev){
@@ -60,35 +105,8 @@ window.onscroll=function (ev){
     }else{
         cabecalho.className = "";
     }
-    for (var i = 0; i < sections.length; i++) {
-        var section = sections[i];
-        // console.log(section);
-        if (verificarSeEstaVisivel(section)){
-            changeBodyClass(section);
-        }
-    }
-
-
 };
 
-
-function verificarSeEstaVisivel(el){
-    window.a = el;
-    var
-    wh = window.innerHeight,
-    y1 = el.getBoundingClientRect().top,
-    y2 = y1 + el.getBoundingClientRect().height;
-    
-    if (y1 > 0 && y2 < wh)
-        return true;
-    return false;
-
-}
-
-function mostrarProcessos(){
-    var processos = document.querySelectorAll('.processo');
-    _animarComClasse(processos);
-};
 
 function _animarComClasse(collection){
     var i = 0;
@@ -103,15 +121,6 @@ function _animarComClasse(collection){
         i++;
     });
 }
-
-function mostrarProfissionais(){
-    var pessoas = document.querySelectorAll('.pessoa');
-    var baloes = document.querySelectorAll('.balao');
-    _animarComClasse(pessoas);
-    setTimeout(function (){
-        _animarComClasse(baloes);
-    },200);
-};
 
 
 
