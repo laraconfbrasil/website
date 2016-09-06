@@ -129,7 +129,7 @@ layout: default
 		</figcaption>
 	</figure>
 	<figure class="palestrante">
-		<img src="img/speakers/speaker5.jpg" alt="Edison Pereira da Costa">
+		<img src="img/speakers/speaker5.jpeg" alt="Edison Pereira da Costa">
 		<figcaption>
 			<h4>Edison Pereira da Costa</h4>
 			<span>PROGRAMADOR</span>
@@ -161,7 +161,7 @@ layout: default
 		</figcaption>
 	</figure>
 	<figure class="palestrante">
-		<img src="img/speakers/speaker7.jpg" alt="Wendell Adriel Luiz Silva">
+		<img src="img/speakers/speaker7.jpeg" alt="Wendell Adriel Luiz Silva">
 		<figcaption>
 			<h4>Wendell Adriel Luiz Silva</h4>
 			<span>PROGRAMADOR</span>
@@ -177,7 +177,7 @@ layout: default
 		</figcaption>
 	</figure>
 	<figure class="palestrante">
-		<img src="img/speakers/speaker8.jpg" alt="Diego Hernandes">
+		<img src="img/speakers/speaker8.jpeg" alt="Diego Hernandes"/>
 		<figcaption>
 			<h4>Diego Hernandes</h4>
 			<span>PROGRAMADOR</span>
@@ -266,10 +266,10 @@ layout: default
 				<img src="img/communities/ruma_a_certificacao.png" alt="Rumo a certificaçao PHP">
 			</a>
 			<a href="http://www.phprs.com.br/" target="_blank">
-				<img src="img/communities/phprs.png" alt="Comunidade de desenvolvedores do Rio Grande do Sul" titlComunidade de desenvolvedores do Rio Grande do Sul">
+				<img src="img/communities/phprs.png" alt="Comunidade de desenvolvedores do Rio Grande do Sul" title="Comunidade de desenvolvedores do Rio Grande do Sul">
 			</a>
 			<a href="http://www.phpsp.org.br/" target="_blank">
-				<img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" titlComunidade de desenvolvedores de São Paulo">
+				<img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" title="Comunidade de desenvolvedores de São Paulo">
 			</a>
 		</div>
 	</section>
@@ -314,7 +314,7 @@ layout: default
         </div>
         <div class="row">
             <div>
-                <style>.ev-embed{ width:100%;}</style>
+                <style>.ev-embed{ width:100%; min-height: auto;}</style>
 
                 <iframe class='ev-embed' src='https://www.eventick.com.br/e/laraconfbrasil' scrolling='no'></iframe>
                 Alternativamente, você pode adquirir seu ticket diretamente na <a href='https://www.eventick.com.br/laraconfbrasil' target='_blank'>página do Eventick</a>
@@ -329,18 +329,23 @@ layout: default
 <section id="contato">
 	<div class="container">
 		<h3>Entre em contato</h3>
-		<form action="#" method="post" accept-charset="utf-8">
+
+		<form id="contactform" action="https://formspree.io/contato@laraconfbrasil.com.br" method="post" accept-charset="utf-8">
+			<input type="hidden" name="_next" value=""/>
 			<div class="form-group">
 				<label for="nome">NOME</label>
-				<input type="text" id="nome" name="nome" class="form-control" />
+				<input type="text" id="nome" name="name" class="form-control" />
 			</div>
 			<div class="form-group">
 				<label for="email">EMAIL</label>
-				<input type="email" id="email" name="email" class="form-control" />
+				<input type="email" id="email" name="_replyto" class="form-control" />
 			</div>
 			<div class="form-group">
 				<label for="description">DESCRIÇÃO</label>
 				<textarea rows="5" cols="5" id="description" name="description" class="form-control"></textarea>
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Enviar"/>
 			</div>
 		</form>
 	</div>
