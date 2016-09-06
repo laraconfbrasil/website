@@ -5,7 +5,7 @@ layout: default
 <!-- header -->
 <header id="header">
 	<div class="container">
-		<h1 id="logo"><a href="/" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
+		<h1 id="logo"><a href="#banner" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
 		<a id="btnHamburgerMenu" href="#" title="Abrir Menu">
 			<span></span>
 			<span></span>
@@ -326,9 +326,14 @@ layout: default
 <!-- contato -->
 <section id="contato">
 	<div class="container">
-		<h3>Entre em contato</h3>
-
-		<form id="contactform" action="https://formspree.io/contato@laraconfbrasil.com.br" method="post" accept-charset="utf-8">
+		<h3>Entre em contato #laraconfBrasil!</h3>
+        <p>
+        	Estamos de portas abertas para receber sugestões de melhoria, contatos para parcerias e patrocínios.
+        </p>
+        <p>
+        	Para isso é muito simples, basta manda um e-mail para a nossa caixa em <a href="mailto:contato@laraconfbrasil.com.br">contato@laraconfbrasil.com.br</a>
+        </p>
+		<!-- <form id="contactform" action="https://formspree.io/contato@laraconfbrasil.com.br" method="post" accept-charset="utf-8">
 			<input type="hidden" name="_next" value=""/>
 			<div class="form-group">
 				<label for="nome">NOME</label>
@@ -345,7 +350,7 @@ layout: default
 			<div class="form-group">
 				<input type="submit" value="Enviar"/>
 			</div>
-		</form>
+		</form> -->
 	</div>
 </section><!-- /contato -->
 

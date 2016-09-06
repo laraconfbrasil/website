@@ -6,8 +6,7 @@ function qsa(el){
 };
 
 var cabecalho = document.getElementById('header'),
-    banner = document.getElementById('banner'),
-    bannerHeight = banner.offsetHeight;
+    banner = document.getElementById('banner');
 
 
 var sectionsIds = [
@@ -62,7 +61,7 @@ function animate(time,callback){
     go();
 }
 
-[].forEach.call(qsa("#header nav a, #banner .wrapper > a"),function (el){
+[].forEach.call(qsa("#header a, #banner .wrapper > a"),function (el){
     el.onclick=function (ev){
         ev.preventDefault();
         var sectionId = el.getAttribute('href');
@@ -99,8 +98,10 @@ qs("#btnHamburgerMenu").onclick=function(ev){
 // ONSCROLL
 window.onscroll=function (ev){
     var 
-    y = window.scrollY;
-    if (y > bannerHeight){
+    y = window.scrollY,
+    menuHeight = qs("#header").offsetHeight;
+    
+    if (y > menuHeight){
         cabecalho.className = "active";
     }else{
         cabecalho.className = "";
