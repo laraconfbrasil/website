@@ -29,14 +29,6 @@ function changeBodyClass(section){
 }
 
 
-function parseDate(str) {
-    var mdy = str.split('/');
-    return new Date(mdy[2], mdy[0]-1, mdy[1]);
-}
-
-function daydiff(first, second) {
-    return Math.round((second-first)/(1000*60*60*24));
-}
 // HANDLERS
 
 var interval;
@@ -84,8 +76,12 @@ function animate(time,callback){
 
 // onready
 document.onready=function (ev){
-    var daydiffs = daydiff(parseDate("08/10/2016"), new Date() );
-    qs("#banner .day").innerHTML = daydiffs;
+    var oneDay = 24*60*60*1000; // hours*minutes*seconds*milliseconds
+    var firstDate = new Date();
+    var secondDate = new Date(2016,09,08);
+
+    var diffDays = Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneDay)));
+    qs("#banner .day").innerHTML = diffDays;
 }
 
 // ONCLICK
