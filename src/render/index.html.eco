@@ -17,8 +17,8 @@ layout: default
 				<li><a href="#programacao" title="programação">programação</a></li>
 				<li><a href="#parcerias" title="parcerias">parcerias</a></li>
 				<li><a href="#onde" title="onde?">onde?</a></li>
-				<li><a href="#contato" title="contato">contato</a></li>
 				<li class="highlight"><a href="#ingressos" title="ingressos">ingressos</a></li>
+				<li><a href="#contato" title="contato">contato</a></li>
 			</ul>
 		</nav>
 
@@ -70,7 +70,7 @@ layout: default
 			<figcaption>
 				<h4>Fábio Vedovelli</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> Laravel e front end: dicas para dominar a integração com Gulp/Elixir </p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/fabio.vedovelli" class="icon facebook" title="Facebook">Facebook</a>
 					<a href="https://twitter.com/vedovelli" class="icon twitter" title="Twitter">Twitter</a>
@@ -82,7 +82,7 @@ layout: default
 			<figcaption>
 				<h4>Luiz Fernando (Zizaco)</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p>Escalando sua aplicação para milhões de visitas</p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/Zizaco" class="icon facebook" title="Facebook">Facebook</a>
 					<a href="https://twitter.com/ZizacoZizaco" class="icon twitter" title="Twitter">Twitter</a>
@@ -94,7 +94,7 @@ layout: default
 			<figcaption>
 				<h4>Isaque Souza</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p>Escalando sua aplicação para milhões de visitas</p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/isaque.souza" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
@@ -105,7 +105,7 @@ layout: default
 			<figcaption>
 				<h4>Aryel Tupinambá</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> Construindo e mantendo aplicações multi-tenant </p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/aryel.tupinamba" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
@@ -116,7 +116,7 @@ layout: default
 			<figcaption>
 				<h4>Edison Pereira da Costa</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> Os Três Mosqueteiros: Vagrant - Git - Deploy </p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/edisonpcosta" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
@@ -127,7 +127,7 @@ layout: default
 			<figcaption>
 				<h4>Ravan Scafi</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> Como sobreviver no Game of Thrones do Desenvolvimento </p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/rscafi" class="icon facebook" title="Facebook">Facebook</a>
 					<a href="https://twitter.com/ravanscafi" class="icon twitter" title="Twitter">Twitter</a>
@@ -139,7 +139,7 @@ layout: default
 			<figcaption>
 				<h4>Wendell Adriel Luiz Silva</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> Do Brasil para Portugal</p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/wendell.adriel.7" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
@@ -150,7 +150,7 @@ layout: default
 			<figcaption>
 				<h4>Diego Hernandes</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> Laravel 5.3 e Aplicações Real Time </p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/hernandev" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
@@ -161,7 +161,7 @@ layout: default
 			<figcaption>
 				<h4>Mateus Guimarães</h4>
 				<span> &nbsp </span>
-				<p> &nbsp </p>
+				<p> TDD: Por que e por onde começar</p>
 				<div class="social-media">
 					<a href="https://www.facebook.com/mateus.guimaraes.71" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
@@ -321,8 +321,8 @@ layout: default
 		<div class="gold">
 			<h4>GOLD</h4>
 			<div class="grid">
-				<a href="http://www.darkmira.com.br/">
-					<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
+				<a href="https://www.webmeeting.com.br/">
+					<img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
 				</a>
 			</div>
 		</div>
@@ -336,20 +336,6 @@ layout: default
 					<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
 				</a>
 			</div>
-=======
-		<div class="grid">
-			<a href="https://www.webmeeting.com.br/">
-				<img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
-			</a>
-		</div>
-		<div class="grid">
-			<a href="http://www.darkmira.com.br/">
-				<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
-			</a>
-			<a href="https://www.4linux.com.br/">
-				<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
-			</a>
->>>>>>> a73e863f629d79a7239a2639f600b8b682fe2387
 		</div>
 	</section>
 

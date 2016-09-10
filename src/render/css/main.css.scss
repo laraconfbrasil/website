@@ -424,6 +424,7 @@ body > section{
 					display: block;
 				}
 				h4{
+					transition: all 0.4s cubic-bezier(0.19,1,0.22,1);
 					font-size: 32px;
 					margin-bottom: 2px;
 				}
@@ -504,6 +505,10 @@ body > section{
 				}
 				img{
 					transform: scale(1.2);
+				}
+				h4{
+					font-size: 27px;
+					color: rgba(0,0,0,0.85);
 				}
 			}
 		}
