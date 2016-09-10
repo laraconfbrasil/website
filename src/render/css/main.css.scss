@@ -278,6 +278,8 @@ body > section{
 		top: 100%;
 		transform: translateY(-100%);
 		width: 100%;
+		display: flex;
+		align-items: center;
 		.arrow{
 			position: relative;
 			display: block;
@@ -285,18 +287,19 @@ body > section{
 			width: 0px;
 			height: 0px;
 			border: solid 35px white;
-			border-top-color: transparent;
-			border-bottom: 0px;
+		    border-top-color: transparent;
+		    border-bottom: 0px;
+		    border-top-width: 40px;
 		}
 		&::after,
 		&::before{
 			background: white;
-			height: 43px;
-			position: absolute;
+			height: 40px;
+			// position: absolute;
 			top: 0px;
 			content: "";
 			display: block;
-			width: calc((100vw - 86px)/2);
+			width: calc((100vw - 70px)/2);
 		}
 		&::after{
 			left: 0px;
@@ -829,6 +832,9 @@ body > section{
 			h3{
 				font-size: 30px;
 				width: 100%;
+			}
+			table tr td span{
+				font-size: 19px;
 			}
 			table tr td:first-child time{
 				font-size: 20px;
