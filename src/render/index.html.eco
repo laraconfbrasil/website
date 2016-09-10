@@ -69,13 +69,11 @@ layout: default
 			<img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
 			<figcaption>
 				<h4>Fábio Vedovelli</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Laravel e front end: dicas para dominar a integração com Gulp/Elixir
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/fabio.vedovelli" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="https://twitter.com/vedovelli" class="icon twitter" title="Twitter">Twitter</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -83,15 +81,11 @@ layout: default
 			<img src="img/speakers/speaker2.jpg" alt="Luiz Fernando (Zizaco)">
 			<figcaption>
 				<h4>Luiz Fernando (Zizaco)</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/Zizaco" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="https://twitter.com/ZizacoZizaco" class="icon twitter" title="Twitter">Twitter</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -99,15 +93,10 @@ layout: default
 			<img src="img/speakers/speaker3.jpg" alt="Isaque Souza">
 			<figcaption>
 				<h4>Isaque Souza</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/isaque.souza" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -115,15 +104,10 @@ layout: default
 			<img src="img/speakers/speaker4.jpg" alt="Aryel Tupinambá">
 			<figcaption>
 				<h4>Aryel Tupinambá</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/aryel.tupinamba" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -131,31 +115,22 @@ layout: default
 			<img src="img/speakers/speaker5.jpeg" alt="Edison Pereira da Costa">
 			<figcaption>
 				<h4>Edison Pereira da Costa</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/edisonpcosta" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
 		<figure class="palestrante ">
 			<img src="img/speakers/speaker6.png" alt="Ravan Scafi">
 			<figcaption>
-				<h4>Walker de Alencar</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<h4>Ravan Scafi</h4>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/rscafi" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="https://twitter.com/ravanscafi" class="icon twitter" title="Twitter">Twitter</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -163,15 +138,10 @@ layout: default
 			<img src="img/speakers/speaker7.jpeg" alt="Wendell Adriel Luiz Silva">
 			<figcaption>
 				<h4>Wendell Adriel Luiz Silva</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/wendell.adriel.7" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -179,15 +149,21 @@ layout: default
 			<img src="img/speakers/speaker8.jpeg" alt="Diego Hernandes"/>
 			<figcaption>
 				<h4>Diego Hernandes</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/hernandev" class="icon facebook" title="Facebook">Facebook</a>
+				</div>
+			</figcaption>
+		</figure>
+		<figure class="palestrante ">
+			<img src="img/speakers/speaker7.jpg" alt="Mateus Guimarães"/>
+			<figcaption>
+				<h4>Mateus Guimarães</h4>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
+				<div class="social-media">
+					<a href="https://www.facebook.com/mateus.guimaraes.71" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -206,7 +182,7 @@ layout: default
 						<time datetime="2016-08-10 08:00:00">08:00</time>
 					</td>
 					<td>
-						<span>CREDENCIAMNETO</span>
+						<span>CREDENCIAMENTO</span>
 					</td>
 				</tr>
 				<tr class="icon coffee">
@@ -219,14 +195,116 @@ layout: default
 				</tr>
 				<tr class="icon palestra">
 					<td>
-						<time datetime="2016-08-10 08:00:00">08:00</time>
+						<time datetime="2016-08-10 09:00:00">09:00</time>
 					</td>
 					<td>
-						<small>MATHEUS MARABESI</small>
-						<span>PALESTRA SOBRE CREDENCIAMNETO</span>
+						<small>Luiz Fernando (Zizaco)</small>
+						<span>Escalando sua aplicação para milhões de visitas</span>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+							Escalabilidade Como utilizar cache de forma inteligente para otimizar o uso de recursos e acelerar a
+							sua aplicação sem comprometer a experiência do usuário. (Case da Leroy Merlin)
 						</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 10:00:00">10:00</time>
+					</td>
+					<td>
+						<small>Isaque Souza</small>
+						<span>Todos por um. Criando pacotes para o Laravel</span>
+						<p></p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 11:00:00">11:00</time>
+					</td>
+					<td>
+						<small>Wendell Adriel</small>
+						<span>Do Brasil para Portugal</span>
+						<p>Como construir uma carreira nacional e internacional com o Laravel</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 11:30:00">11:30</time>
+					</td>
+					<td>
+						<small>Mateus Guimarães</small>
+						<span>TDD: Por que e por onde começar</span>
+						<p>Mini palestra sobre os benefícios do desenvolvimento orientado à testes e como começar a
+							utilizar a metodologia em projetos Laravel</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 13:00:00">13:00</time>
+					</td>
+					<td>
+						<small>Ravan Scafi</small>
+						<span>Como sobreviver no Game of Thrones do Desenvolvimento</span>
+						<p>Ao menor deslize, George R. R. Martin pode ser implacável com seus personagens. A vida
+							também tem dessas ¯\_(ツ)_/¯ e erros podem acabar com seus projetos. Startups vêm e vão todos
+							os dias, independentemente do nível técnico de suas equipes. Não seja o próximo Jon Snow,
+							aprenda enquanto é tempo e garanta que seu novo projeto não vá virar comida de dragões.
+							Estruture sua aplicação, mantenha sua visão e conquiste Westeros.
+						</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 13:30:00">13:30</time>
+					</td>
+					<td>
+						<small>Aryel Tupinambá</small>
+						<span>Construindo e mantendo aplicações multi-tenant</span>
+						<p>O multi-tenancy é uma evolução natural para boa parte das aplicações. Startups e seus produtos
+							precisam dele para seu modelo SaaS, empresas e seus sistemas o querem para o reuso de
+							código. Essa palestra irá mostrar técnicas e modelos para a aplicação de multi-tenancy,
+							e erros comuns no processo. Será exemplificado com um estudo de caso de um
+							projeto nosso, mostrando como lidamos com uma dívida técnica imensa e
+							arquitetura limitada, até chegar em uma plataforma sólida, automatizada e customizável
+						</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 14:30:00">14:30</time>
+					</td>
+					<td>
+						<small>Edison Pereira da Costa</small>
+						<span>Os Três Mosqueteiros: Vagrant - Git - Deploy</span>
+						<p>Como construir um ambiente de Desenvolvimento Laravel com Vagrant e Deploy automático.</p>
+					</td>
+				</tr>
+				<tr class="icon coffee">
+					<td>
+						<time datetime="2016-08-10 15:30:00">15:30</time>
+					</td>
+					<td>
+						<span>COFFEE</span>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 16:00:00">16:00</time>
+					</td>
+					<td>
+						<small>Fábio Vedovelli</small>
+						<span>Laravel e front end: dicas para dominar a integração com Gulp/Elixir</span>
+						<p> </p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 17:00:00">17:00</time>
+					</td>
+					<td>
+						<small>Diego Hernandes</small>
+						<span>Laravel 5.3 e Aplicações Real Time</span>
+						<p>Dentre as novidades do Laravel 5.3, está o Laravel Echo, um poderoso componente de broadcast
+							de eventos desenvolvido para facilitar o desenvolvimento de aplicações real-time</p>
 					</td>
 				</tr>
 			</tbody>
@@ -240,6 +318,7 @@ layout: default
 	<h2>Parcerias</h2>
 	<section class="patrocinadores">
 		<h3>Patrocinadores</h3>
+<<<<<<< HEAD
 		<div class="gold">
 			<h4>GOLD</h4>
 			<div class="grid">
@@ -258,6 +337,20 @@ layout: default
 					<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
 				</a>
 			</div>
+=======
+		<div class="grid">
+			<a href="https://www.webmeeting.com.br/">
+				<img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
+			</a>
+		</div>
+		<div class="grid">
+			<a href="http://www.darkmira.com.br/">
+				<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
+			</a>
+			<a href="https://www.4linux.com.br/">
+				<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
+			</a>
+>>>>>>> a73e863f629d79a7239a2639f600b8b682fe2387
 		</div>
 	</section>
 
