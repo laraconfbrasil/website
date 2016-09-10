@@ -240,13 +240,24 @@ layout: default
 	<h2>Parcerias</h2>
 	<section class="patrocinadores">
 		<h3>Patrocinadores</h3>
-		<div class="grid">
-			<a href="http://www.darkmira.com.br/">
-				<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
-			</a>
-			<a href="https://www.4linux.com.br/">
-				<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
-			</a>
+		<div class="gold">
+			<h4>GOLD</h4>
+			<div class="grid">
+				<a href="http://www.darkmira.com.br/">
+					<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
+				</a>
+			</div>
+		</div>
+		<div class="silver">
+			<h4>SILVER</h4>
+			<div class="grid">
+				<a href="http://www.darkmira.com.br/">
+					<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
+				</a>
+				<a href="https://www.4linux.com.br/">
+					<img src="img/sponsors/4linux.png" alt="4linux Software e Comércio de Programas">
+				</a>
+			</div>
 		</div>
 	</section>
 

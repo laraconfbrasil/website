@@ -591,6 +591,34 @@ body > section{
 }
 
 #parcerias{
+	h4{
+		font-size: 20px;
+		font-weight: bold;
+		display: block;
+		text-align: center;
+		margin-bottom: 20px;
+		padding-bottom: 20px;
+		position: relative;
+		&::after{
+			content: "";
+			display: block;
+			height: 3px;
+			width: 100px;
+			max-width: 100%;
+			margin: auto;
+			background: #CCC;
+			position: absolute;
+			left: 50%;
+			transform: translateX(-50%);
+			bottom: 0px;
+		}	
+	}
+	.gold h4::after{
+		background: #ffc724;
+	}
+	.silver h4::after{
+		background: #c7d0d2;
+	}
 	padding-top: 0px;
 	h2{
 		display: block;
