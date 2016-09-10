@@ -69,13 +69,11 @@ layout: default
 			<img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
 			<figcaption>
 				<h4>Fábio Vedovelli</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Laravel e front end: dicas para dominar a integração com Gulp/Elixir
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/fabio.vedovelli" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="https://twitter.com/vedovelli" class="icon twitter" title="Twitter">Twitter</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -83,15 +81,11 @@ layout: default
 			<img src="img/speakers/speaker2.jpg" alt="Luiz Fernando (Zizaco)">
 			<figcaption>
 				<h4>Luiz Fernando (Zizaco)</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/Zizaco" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="https://twitter.com/ZizacoZizaco" class="icon twitter" title="Twitter">Twitter</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -99,15 +93,10 @@ layout: default
 			<img src="img/speakers/speaker3.jpg" alt="Isaque Souza">
 			<figcaption>
 				<h4>Isaque Souza</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/isaque.souza" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -115,15 +104,10 @@ layout: default
 			<img src="img/speakers/speaker4.jpg" alt="Aryel Tupinambá">
 			<figcaption>
 				<h4>Aryel Tupinambá</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/aryel.tupinamba" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -131,31 +115,22 @@ layout: default
 			<img src="img/speakers/speaker5.jpeg" alt="Edison Pereira da Costa">
 			<figcaption>
 				<h4>Edison Pereira da Costa</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/edisonpcosta" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
 		<figure class="palestrante ">
 			<img src="img/speakers/speaker6.png" alt="Ravan Scafi">
 			<figcaption>
-				<h4>Walker de Alencar</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<h4>Ravan Scafi</h4>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/rscafi" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="https://twitter.com/ravanscafi" class="icon twitter" title="Twitter">Twitter</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -163,15 +138,10 @@ layout: default
 			<img src="img/speakers/speaker7.jpeg" alt="Wendell Adriel Luiz Silva">
 			<figcaption>
 				<h4>Wendell Adriel Luiz Silva</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/wendell.adriel.7" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -179,15 +149,10 @@ layout: default
 			<img src="img/speakers/speaker8.jpeg" alt="Diego Hernandes"/>
 			<figcaption>
 				<h4>Diego Hernandes</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/hernandev" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
@@ -195,15 +160,10 @@ layout: default
 			<img src="img/speakers/speaker7.jpg" alt="Mateus Guimarães"/>
 			<figcaption>
 				<h4>Mateus Guimarães</h4>
-				<span>PROGRAMADOR</span>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-				</p>
+				<span> &nbsp </span>
+				<p> &nbsp </p>
 				<div class="social-media">
-					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
-					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+					<a href="https://www.facebook.com/mateus.guimaraes.71" class="icon facebook" title="Facebook">Facebook</a>
 				</div>
 			</figcaption>
 		</figure>
