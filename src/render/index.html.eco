@@ -191,6 +191,22 @@ layout: default
 				</div>
 			</figcaption>
 		</figure>
+		<figure class="palestrante ">
+			<img src="img/speakers/speaker7.jpg" alt="Mateus Guimarães"/>
+			<figcaption>
+				<h4>Mateus Guimarães</h4>
+				<span>PROGRAMADOR</span>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+				</p>
+				<div class="social-media">
+					<a href="http://facebook.com/user" class="icon facebook" title="Facebook">Facebook</a>
+					<a href="http://twitter.com/user" class="icon twitter" title="Twitter">Twitter</a>
+				</div>
+			</figcaption>
+		</figure>
 	</div>
 </section><!-- /palestrantes -->
 
