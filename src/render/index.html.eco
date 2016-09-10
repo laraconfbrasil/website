@@ -206,7 +206,7 @@ layout: default
 						<time datetime="2016-08-10 08:00:00">08:00</time>
 					</td>
 					<td>
-						<span>CREDENCIAMNETO</span>
+						<span>CREDENCIAMENTO</span>
 					</td>
 				</tr>
 				<tr class="icon coffee">
@@ -219,14 +219,116 @@ layout: default
 				</tr>
 				<tr class="icon palestra">
 					<td>
-						<time datetime="2016-08-10 08:00:00">08:00</time>
+						<time datetime="2016-08-10 09:00:00">09:00</time>
 					</td>
 					<td>
-						<small>MATHEUS MARABESI</small>
-						<span>PALESTRA SOBRE CREDENCIAMNETO</span>
+						<small>Luiz Fernando (Zizaco)</small>
+						<span>Escalando sua aplicação para milhões de visitas</span>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+							Escalabilidade Como utilizar cache de forma inteligente para otimizar o uso de recursos e acelerar a
+							sua aplicação sem comprometer a experiência do usuário. (Case da Leroy Merlin)
 						</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 10:00:00">10:00</time>
+					</td>
+					<td>
+						<small>Isaque Souza</small>
+						<span>Todos por um. Criando pacotes para o Laravel</span>
+						<p></p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 11:00:00">11:00</time>
+					</td>
+					<td>
+						<small>Wendell Adriel</small>
+						<span>Do Brasil para Portugal</span>
+						<p>Como construir uma carreira nacional e internacional com o Laravel</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 11:30:00">11:30</time>
+					</td>
+					<td>
+						<small>Mateus Guimarães</small>
+						<span>TDD: Por que e por onde começar</span>
+						<p>Mini palestra sobre os benefícios do desenvolvimento orientado à testes e como começar a
+							utilizar a metodologia em projetos Laravel</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 13:00:00">13:00</time>
+					</td>
+					<td>
+						<small>Ravan Scafi</small>
+						<span>Como sobreviver no Game of Thrones do Desenvolvimento</span>
+						<p>Ao menor deslize, George R. R. Martin pode ser implacável com seus personagens. A vida
+							também tem dessas ¯\_(ツ)_/¯ e erros podem acabar com seus projetos. Startups vêm e vão todos
+							os dias, independentemente do nível técnico de suas equipes. Não seja o próximo Jon Snow,
+							aprenda enquanto é tempo e garanta que seu novo projeto não vá virar comida de dragões.
+							Estruture sua aplicação, mantenha sua visão e conquiste Westeros.
+						</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 13:30:00">13:30</time>
+					</td>
+					<td>
+						<small>Aryel Tupinambá</small>
+						<span>Construindo e mantendo aplicações multi-tenant</span>
+						<p>O multi-tenancy é uma evolução natural para boa parte das aplicações. Startups e seus produtos
+							precisam dele para seu modelo SaaS, empresas e seus sistemas o querem para o reuso de
+							código. Essa palestra irá mostrar técnicas e modelos para a aplicação de multi-tenancy,
+							e erros comuns no processo. Será exemplificado com um estudo de caso de um
+							projeto nosso, mostrando como lidamos com uma dívida técnica imensa e
+							arquitetura limitada, até chegar em uma plataforma sólida, automatizada e customizável
+						</p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 14:30:00">14:30</time>
+					</td>
+					<td>
+						<small>Edison Pereira da Costa</small>
+						<span>Os Três Mosqueteiros: Vagrant - Git - Deploy</span>
+						<p>Como construir um ambiente de Desenvolvimento Laravel com Vagrant e Deploy automático.</p>
+					</td>
+				</tr>
+				<tr class="icon coffee">
+					<td>
+						<time datetime="2016-08-10 15:30:00">15:30</time>
+					</td>
+					<td>
+						<span>COFFEE</span>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 16:00:00">16:00</time>
+					</td>
+					<td>
+						<small>Fábio Vedovelli</small>
+						<span>Laravel e front end: dicas para dominar a integração com Gulp/Elixir</span>
+						<p> </p>
+					</td>
+				</tr>
+				<tr class="icon palestra">
+					<td>
+						<time datetime="2016-08-10 17:00:00">17:00</time>
+					</td>
+					<td>
+						<small>Diego Hernandes</small>
+						<span>Laravel 5.3 e Aplicações Real Time</span>
+						<p>Dentre as novidades do Laravel 5.3, está o Laravel Echo, um poderoso componente de broadcast
+							de eventos desenvolvido para facilitar o desenvolvimento de aplicações real-time</p>
 					</td>
 				</tr>
 			</tbody>
