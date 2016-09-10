@@ -319,6 +319,11 @@ layout: default
 	<section class="patrocinadores">
 		<h3>Patrocinadores</h3>
 		<div class="grid">
+			<a href="https://www.webmeeting.com.br/">
+				<img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
+			</a>
+		</div>
+		<div class="grid">
 			<a href="http://www.darkmira.com.br/">
 				<img class="height-100" src="img/sponsors/darkmira.png" alt="Darkmira Brasil">
 			</a>
