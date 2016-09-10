@@ -424,6 +424,7 @@ body > section{
 					display: block;
 				}
 				h4{
+					will-change: font-size, color;
 					transition: all 0.4s cubic-bezier(0.19,1,0.22,1);
 					font-size: 32px;
 					margin-bottom: 2px;
@@ -820,8 +821,24 @@ body > section{
 	}
 	#ingressos{
 		iframe{
-			height: 810px;
+			height: 1030px;
 		}
+	}
+	#programacao {
+		.container{
+			h3{
+				font-size: 30px;
+				width: 100%;
+			}
+			table tr td:first-child time{
+				font-size: 20px;
+			}
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+	}
+	#palestrantes .grid{
+		background: white;
 	}
 	#palestrantes .grid .palestrante{
 		flex: 0 1 100%;
