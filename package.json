@@ -6,10 +6,13 @@
     "docpad": "~6.78.6",
     "docpad-plugin-eco": "~2.1.0",
     "docpad-plugin-ghpages": "~2.4.4",
-    "docpad-plugin-partials": "~2.9.2"
+    "docpad-plugin-livereload": "~2.7.1",
+    "docpad-plugin-partials": "~2.9.2",
+    "docpad-plugin-sass": "~2.7.4"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
-    "start": "node_modules/.bin/docpad-server"
+    "start": "node_modules/.bin/docpad-server",
+    "run": "node_modules/.bin/docpad run"
   }
 }
