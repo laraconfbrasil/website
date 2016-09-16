@@ -343,7 +343,7 @@ layout: default
 		<h3>Comunidades</h3>
 		<div class="grid">
 			<a href="https://www.facebook.com/groups/laravelsp/" target="_blank">
-				<img class="height-100" src="img/communities/logo_laravel_sp.png" alt="Lara vel São Paulo" >
+				<img class="height-100" src="img/communities/logo_laravel_sp.png" alt="Laravel São Paulo" />
 			</a>
 			<a href="http://phpcomrapadura.org/" target="_blank">
 				<img src="img/communities/phpcomrapadura.png" alt="PHP com rapadura">
@@ -367,6 +367,7 @@ layout: default
 		<h3>Apoios</h3>
 		<div class="grid">
 			<img src="img/support/fiap.png"/>
+			<img src="img/support/umbler.png" alt="Umbler" />
 			<img src="img/support/webschool.png" alt="Webschool.io" />
 			<img src="img/support/editora-novatec.png" alt="Editora Novatec" />
 			<img src="img/support/gerente-de-sucesso.png" alt="Editora Novatec" />
@@ -376,6 +377,7 @@ layout: default
 			<img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
 			<img src="img/support/imasters.png" alt="Imasters" />
 			<img src="img/support/laravelsp.png" alt="Laravel SP" />
+			<img src="img/support/dne.png" alt="Dev Na Estrada" />
 		</div>
 	</section>
 </section><!-- /parcerias -->
