@@ -4,3 +4,4 @@ out/
 /nbproject/private/
 nbproject/
 npm-debug.log
+.DS_Store
