@@ -81,7 +81,7 @@ document.onready=function (ev){
     var secondDate = new Date(2016,09,08);
 
     var diffDays = Math.round(Math.abs((firstDate.getTime() - secondDate.getTime())/(oneDay)));
-    qs("#banner .day").innerHTML = diffDays;
+    qs("#banner .day").innerHTML = (diffDays == 0) ? 1 : diffDays;
 }
 
 // ONCLICK
