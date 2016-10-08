@@ -35,9 +35,8 @@ layout: default
 					<span><b>#</b>LARACONF<b>BRASIL</b></span>
 					<time datetime="2016-08-10">08/10/2016</time>
 				</figcaption>
-				<a href="http://laraconfbrasil.com.br/webmeeting">Para assistir ao evento acesse o link</a>
+				<a class="btn btn-border" href="#ingressos" href="http://laraconfbrasil.com.br/webmeeting">Para assistir ao evento acesse o link</a>
 			</figure>
-			<a class="btn btn-border" href="#ingressos" title="GARANTA O SEU INGRESSO">GARANTA O SEU INGRESSO</a>
 			<div class="social-media">
 				<a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">Acompanhe também o nosso Facebook!</a>
 			</div>
