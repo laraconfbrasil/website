@@ -63,7 +63,7 @@ function animate(time,callback){
         var diff =  sectionY - windowY;
 
 
-        console.log(sectionY);
+        //console.log(sectionY);
         qs("#header nav").setAttribute('class','');
         animate(1000,function (prop){
             // console.log(prop);
