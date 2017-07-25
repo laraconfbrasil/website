@@ -20,6 +20,11 @@ layout: default
 			</figure>
 			<div class="social-media">
 				<h1>VOCÊ ESTÁ PREPARADO?</h1>
+        <a href="https://www.vakinha.com.br/vaquinha/laravel-conference-brasil-online"
+           title="Contribua com a realização do evento">
+          <big>Contribua com a realização do evento, garanta sua vaga online.</big>
+        </a>
+        <hr>
 				<a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">
 					Acompanhe também o nosso Facebook!
 				</a>
