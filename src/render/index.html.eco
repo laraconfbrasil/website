@@ -19,7 +19,9 @@ layout: default
 				</figcaption>
 			</figure>
 			<div class="social-media">
-				<h1>VOCÊ ESTÁ PREPARADO?</h1>
+				<a href="https://www.sympla.com.br/laraconfbrasil-2017__169502" target="_new">
+					<h1 style="color: white;">GARANTA SEU INGRESSO EARLY BIRD!</h1>
+				</a>
         <a href="https://www.vakinha.com.br/vaquinha/laravel-conference-brasil-online"
            title="Contribua com a realização do evento">
           <big>Contribua com a realização do evento, garanta sua vaga online.</big>
