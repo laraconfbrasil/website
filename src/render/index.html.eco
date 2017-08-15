@@ -22,11 +22,13 @@ layout: default
 				<a href="https://www.sympla.com.br/laraconfbrasil-2017__169502" target="_new">
 					<h1 style="color: white;">GARANTA SEU INGRESSO EARLY BIRD!</h1>
 				</a>
-        <a href="https://www.vakinha.com.br/vaquinha/laravel-conference-brasil-online"
-           title="Contribua com a realização do evento">
-          <big>Contribua com a realização do evento, garanta sua vaga online.</big>
-        </a>
-        <hr>
+				<a href="https://www.vakinha.com.br/vaquinha/laravel-conference-brasil-online" title="Contribua com a realização do evento">
+					<big>Contribua com a realização do evento, garanta sua vaga online.</big>
+				</a>
+				<hr>
+				<a href="https://goo.gl/forms/hSw2o5IKL23OWzkf1" _target="blank">
+					<h3>O CFP está aberto, envie sua palestra e participe do maior evento de Laravel do Brasil!</h3>
+				</a>
 				<a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">
 					Acompanhe também o nosso Facebook!
 				</a>
