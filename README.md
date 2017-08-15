@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/laraconfbrasil/website.svg?branch=master)](https://travis-ci.org/laraconfbrasil/website)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/100e0289b1a74d4abceca1733df31142)](https://www.codacy.com/app/matheus-marabesi/website?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laraconfbrasil/website&amp;utm_campaign=Badge_Grade)
 
 # Edições
 
