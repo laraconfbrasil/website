@@ -1,0 +1,39 @@
+<section id="palestrantes">
+    <h3>Veja os nossos Palestrantes!</h3>
+    <div class="grid">
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
+            <figcaption>
+                <h4>Fábio Vedovelli</h4>
+                <span> &nbsp </span>
+                <p> Apenas Laravel não basta! </p>
+                <div class="social-media">
+                    <a href="https://www.facebook.com/fabio.vedovelli" class="icon facebook" title="Facebook">Facebook</a>
+                    <a href="https://twitter.com/vedovelli" class="icon twitter" title="Twitter">Twitter</a>
+                </div>
+            </figcaption>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker8.jpeg" alt="Diego Hernandes"/>
+            <figcaption>
+                <h4>Diego Hernandes</h4>
+                <span> &nbsp </span>
+                <p></p>
+                <div class="social-media">
+                    <a href="https://www.facebook.com/hernandev" class="icon facebook" title="Facebook">Facebook</a>
+                </div>
+            </figcaption>
+        </figure>
+
+        <figure class="palestrante ">
+            <a href="https://goo.gl/forms/Q2NhiwLkzZ7TwQZp2" target="_blank">
+                <figcaption>
+                    <h4>Você ?</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+    </div>
+</section>

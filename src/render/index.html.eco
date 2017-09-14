@@ -3,36 +3,117 @@ layout: default
 ---
 
 <header id="header">
-	<div class="container">
-		<h1 id="logo"><a href="#banner" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
-	</div>
+    <div class="container">
+        <h1 id="logo"><a href="#banner" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
+        <a id="btnHamburgerMenu" href="#" title="Abrir Menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </a>
+        <nav>
+            <ul>
+                <li><a href="#palestrantes" title="palestrantes">palestrantes</a></li>
+                <li><a href="#programacao" title="programação">programação</a></li>
+                <li><a href="#parcerias" title="parcerias">parcerias</a></li>
+                <li><a href="#onde" title="onde?">onde?</a></li>
+                <li class="highlight"><a href="#ingressos" title="ingressos">ingressos</a></li>
+                <li><a href="#contato" title="contato">contato</a></li>
+            </ul>
+        </nav>
+
+    </div>
 </header>
 
 <main id="banner">
-	<div class="container">
-		<div class="wrapper">
-			<figure>
-				<img src="img/laravel_logo.png" alt="Laraconf2017">
-				<figcaption>
-					<span><b>#</b>LARACONF<b>BRASIL</b></span>
-					<time>17 e 18 de Novembro de 2017</time>
-				</figcaption>
-			</figure>
-			<div class="social-media">
-				<a href="https://www.sympla.com.br/laraconfbrasil-2017__169502" target="_new">
-					<h1 style="color: white;">GARANTA SEU INGRESSO EARLY BIRD!</h1>
-				</a>
-				<a href="https://www.vakinha.com.br/vaquinha/laravel-conference-brasil-online" title="Contribua com a realização do evento">
-					<big>Contribua com a realização do evento, garanta sua vaga online.</big>
-				</a>
-				<hr>
-				<a href="https://goo.gl/forms/hSw2o5IKL23OWzkf1" _target="blank">
-					<h3>O CFP está aberto, envie sua palestra e participe do maior evento de Laravel do Brasil!</h3>
-				</a>
-				<a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">
-					Acompanhe também o nosso Facebook!
-				</a>
-			</div>
-		</div>
-	</div>
+    <div class="container">
+        <div class="wrapper">
+            <figure>
+                <img src="img/laravel_logo.png" alt="Laraconf2016">
+                <figcaption>17 e 18 de Novembro de 2017</figcaption>
+                <small>O MAIOR EVENTO DE</small> <h2>LARAVEL</h2> <small>DO BRASIL</small>
+            </figure>
+            <a class="btn btn-border" href="#ingressos" title="GARANTA O SEU INGRESSO">GARANTA O SEU INGRESSO</a>
+            <div class="social-media">
+                <a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">Acompanhe também o nosso Facebook!</a>
+            </div>
+        </div>
+    </div>
+    <div class="scroll-down">
+        <span class="arrow"></span>
+    </div>
 </main>
+
+<section id="sobre">
+    <div class="container">
+        <h3>SOBRE A #LARACONFBRASIL</h3>
+        <p>
+            Primeiro evento exclusivamente dedicado ao Laravel, com diversas 
+            palestras de pessoas da comunidade e antenadas não somente no mundo 
+            laravel mas também do PHP respeitando todo o  
+            nosso <a href="/conduta.html" title="código de conduta">código de conduta</a>
+        </p>
+    </div>
+</section>
+
+<%- @partial('palestrantes') %>
+<%- @partial('programacao') %>
+
+<section id="parcerias">
+    <h2>Parcerias</h2>
+    <section class="patrocinadores">
+        <h3>Patrocinadores</h3>
+        <div class="gold">
+            <h4>GOLD</h4>
+            <div class="grid">
+                <a href="https://www.webmeeting.com.br/">
+                    <img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="comunidades">
+        <h3>Comunidades</h3>
+        <div class="grid">
+            <a href="https://www.facebook.com/groups/laravelsp/" target="_blank">
+                <img class="height-100" src="img/communities/logo_laravel_sp.png" alt="Laravel São Paulo" />
+            </a>
+            <a href="http://phpcomrapadura.org/" target="_blank">
+                <img src="img/communities/phpcomrapadura.png" alt="PHP com rapadura">
+            </a>
+            <a href="http://www.phpdf.org.br/" target="_blank">
+                <img src="img/communities/php_df.png"                     alt="PHP DF - Comunidade de desenvolvedores PHP do Distrito Federal">
+            </a>
+            <a href="http://www.rumoacertificacaophp.com/" target="_blank">
+                <img src="img/communities/ruma_a_certificacao.png" alt="Rumo a certificaçao PHP">
+            </a>
+            <a href="http://www.phprs.com.br/" target="_blank">
+                <img src="img/communities/phprs.png" alt="Comunidade de desenvolvedores do Rio Grande do Sul" title="Comunidade de desenvolvedores do Rio Grande do Sul">
+            </a>
+            <a href="http://www.phpsp.org.br/" target="_blank">
+                <img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" title="Comunidade de desenvolvedores de São Paulo">
+            </a>
+        </div>
+    </section>
+
+    <section class="apoios">
+        <h3>Apoios</h3>
+        <div class="grid">
+            <img src="img/support/codecast.png" alt="Codecast" />
+            <img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
+            <img src="img/support/imasters.png" alt="Imasters" />
+            <img src="img/support/laravelsp.png" alt="Laravel SP" />
+            <img src="img/support/tht.png" alt="Things Hacker Team" />
+        </div>
+    </section>
+</section>
+
+<%- @partial('mapa') %>
+<%- @partial('ingressos') %>
+<%- @partial('contato') %>
+<%- @partial('dicas') %>
+
+<footer>
+    <div class="container"></div>
+</footer>
+

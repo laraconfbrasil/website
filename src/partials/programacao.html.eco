@@ -1,0 +1,248 @@
+<section id="programacao">
+    <div class="container">
+        <h3>PROGRAMAÇÃO <b>#</b>LARACONF<b>BRASIL</b></h3>
+        <h2><a href="#" class="grade active" id="dia17">Dia 17</a> | <a href="#" class="grade" id="dia18">Dia 18</a></h2>
+
+        <table id="grade-dia17">
+            <tbody>
+                <tr class="icon credenciamento">
+                    <td>
+                        <time datetime="2016-08-10 08:00:00">08:00</time>
+                    </td>
+                    <td>
+                        <span>CREDENCIAMENTO</span>
+                    </td>
+                </tr>
+                <tr class="icon coffee">
+                    <td>
+                        <time datetime="2016-08-10 08:00:00">08:00</time>
+                    </td>
+                    <td>
+                        <span>COFFEE</span>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 09:00:00">09:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 1</span>
+                        <p>
+                            --
+                        </p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 10:00:00">10:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 2</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 11:00:00">11:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 3</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 11:30:00">11:30</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 4</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 13:00:00">13:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 5</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 13:30:00">13:30</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 6</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 14:30:00">14:30</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 7</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon coffee">
+                    <td>
+                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                    </td>
+                    <td>
+                        <span>COFFEE</span>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 16:00:00">16:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 8</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 17:00:00">17:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 9</span>
+                        <p></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table id="grade-dia18" class="esconder">
+            <tbody>
+                <tr class="icon credenciamento">
+                    <td>
+                        <time datetime="2016-08-10 08:00:00">08:00</time>
+                    </td>
+                    <td>
+                        <span>CREDENCIAMENTO</span>
+                    </td>
+                </tr>
+                <tr class="icon coffee">
+                    <td>
+                        <time datetime="2016-08-10 08:00:00">08:00</time>
+                    </td>
+                    <td>
+                        <span>COFFEE</span>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 09:00:00">09:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 1</span>
+                        <p>
+                            --
+                        </p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 10:00:00">10:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 2</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 11:00:00">11:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 3</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 11:30:00">11:30</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 4</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 13:00:00">13:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 5</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 13:30:00">13:30</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 6</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 14:30:00">14:30</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 7</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon coffee">
+                    <td>
+                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                    </td>
+                    <td>
+                        <span>COFFEE</span>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 16:00:00">16:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 8</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 17:00:00">17:00</time>
+                    </td>
+                    <td>
+                        <small>--</small>
+                        <span>SLOT 9</span>
+                        <p></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>

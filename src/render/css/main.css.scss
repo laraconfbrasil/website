@@ -3,6 +3,7 @@ $primaryColor: #0A1750;
 
 $pink: #D44443;
 $gray: #2D3138;
+$white: #fff;
 
 *{
 	font-family: "Raleway",sans-serif;
@@ -63,8 +64,8 @@ $gray: #2D3138;
 	font-size: 19px;
 	&.btn-border{
 		background: transparent;
-		color: white;
-		border: solid 3px white;
+		color: $white;    
+		border: solid 3px $white;    
 		border-radius: 26px;
 		font-weight: 600;
 		transition: all 0.3s cubic-bezier(0.19,1,0.22,1);
@@ -107,7 +108,7 @@ $gray: #2D3138;
 		li{
 			display: inline-block;
 			a{
-				color: white;
+				color: $white;    
 				display: block;
 				padding: 20px;
 				font-weight: bold;
@@ -145,7 +146,7 @@ $gray: #2D3138;
 		span{
 			display: block;
 		    height: 3px;
-		    background: white;
+		    background: $white;    
 		    position: absolute;
 			left: 20px;
 			right: 20px;
@@ -166,10 +167,10 @@ $gray: #2D3138;
 #contato{
 	background-color: $pink;
 	*{
-		color: white;
+		color: $white;    
 	}
 	h3::after{
-		background-color: white;
+		background-color: $white;    
 	}
 	p{
 		font-size: 20px;
@@ -223,27 +224,6 @@ body > section{
 	background-attachment: fixed;
 	overflow: hidden;
 
-	// .wrapper > figure > img{
-	// 	will-change: transform, opacity;
-	// 	animation: 0.5s cubic-bezier(0.19,1,0.22,1) 0s slideFadeDown;
-	// }
-	// .wrapper > figure > figcaption > span{
-	// 	will-change: transform, opacity;
-	// 	animation: 0.5s cubic-bezier(0.19,1,0.22,1) 0.3s slideFadeDown;
-	// }
-	// .wrapper > figure > figcaption > time{
-	// 	will-change: transform, opacity;
-	// 	animation: 0.5s cubic-bezier(0.19,1,0.22,1) 0.5s slideFadeDown;
-	// }
-	// .wrapper > figure > h2{
-	// 	will-change: transform, opacity;
-	// 	animation: 0.5s cubic-bezier(0.19,1,0.22,1) 0.6s slideFadeDown;
-	// }
-	// .wrapper > figure > small{
-	// 	will-change: transform, opacity;
-	// 	animation: 0.5s cubic-bezier(0.19,1,0.22,1) 0.7s slideFadeDown;
-	// }
-
 	.container{
 		padding-top: 80px;
 		height: 100vh;
@@ -286,14 +266,14 @@ body > section{
 			margin: auto;
 			width: 0px;
 			height: 0px;
-			border: solid 35px white;
+			border: solid 35px $white;    
 		    border-top-color: transparent;
 		    border-bottom: 0px;
 		    border-top-width: 40px;
 		}
 		&::after,
 		&::before{
-			background: white;
+			background: $white;    
 			height: 40px;
 			// position: absolute;
 			top: 0px;
@@ -317,7 +297,7 @@ body > section{
 		left: 50%;
 		top: 50%;
 		transform: translate(-50%,-50%) translateY(-13px);
-		color: white;
+		color: $white;    
 		z-index: 10;
 		figure{
 			img{
@@ -364,10 +344,10 @@ body > section{
 			position: relative;
 
 			&.icon-button{
-				color: white;
+				color: $white;    
 				padding-left: 28px;
 			    display: block;
-			    color: white;
+			    color: $white;    
 			    width: 340px;
 			    margin: auto;
 			    margin-top: 20px;
@@ -386,7 +366,7 @@ body > section{
 					background-position: center;
 					width: 50px;
     				height: 40px;
-					color: white;
+					color: $white;    
 				}
 			}
 		}
@@ -422,7 +402,7 @@ body > section{
 				height: 100px;
 				padding: 15px 20px;
 				*{
-					color: white;
+					color: $white;    
 					text-align: center;
 					display: block;
 				}
@@ -457,8 +437,8 @@ body > section{
 					a{
 						margin-right: 15px;
 						background: transparent;
-						color: white;
-						border: solid 3px white;
+						color: $white;    
+						border: solid 3px $white;    
 						border-radius: 30px;
 						font-weight: 600;
 						transition: all 0.3s cubic-bezier(0.19,1,0.22,1);
@@ -536,7 +516,7 @@ body > section{
 	}
 	background: $bgColor;
 	*{
-		color: white;
+		color: $white;    
 	}
 	table{
 		max-width: 800px;
@@ -636,7 +616,7 @@ body > section{
 		padding: 20px;
 		text-align: center;
 		margin: auto;
-		color: white;
+		color: $white;    
 	}
 	h3{
 		text-align: center;
@@ -701,7 +681,7 @@ body > section{
 		padding: 30px;
 		background: $gray;
 		*{
-			color: white;
+			color: $white;    
 		}
 	}
 	iframe{
@@ -844,7 +824,7 @@ body > section{
 		}
 	}
 	#palestrantes .grid{
-		background: white;
+		background: $white;    
 	}
 	#palestrantes .grid .palestrante{
 		flex: 0 1 100%;
@@ -931,4 +911,12 @@ body > section{
 		}
 	}
 
+}
+
+.esconder {
+	display: none;
+}
+
+.active {
+	color: $pink !important;
 }

@@ -1,0 +1,11 @@
+<section id="contato">
+    <div class="container">
+        <h3>Entre em contato #laraconfBrasil!</h3>
+        <p>
+            Estamos de portas abertas para receber sugestões de melhoria, contatos para parcerias e patrocínios.
+        </p>
+        <p>
+            Para isso é muito simples, basta manda um e-mail para a nossa caixa em <a href="mailto:contato@laraconfbrasil.com.br">contato@laraconfbrasil.com.br</a>
+        </p>
+    </div>
+</section>
