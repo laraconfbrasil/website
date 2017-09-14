@@ -19,7 +19,7 @@
             <figcaption>
                 <h4>Diego Hernandes</h4>
                 <span> &nbsp </span>
-                <p></p>
+                <p>Laravel: O Estado da Arte</p>
                 <div class="social-media">
                     <a href="https://www.facebook.com/hernandev" class="icon facebook" title="Facebook">Facebook</a>
                 </div>
@@ -31,7 +31,7 @@
                 <figcaption>
                     <h4>Você ?</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Mande sua palestra, e participe do maior evento de Laravel do Brasil!</p>
                 </figcaption>
             </a>
         </figure>
