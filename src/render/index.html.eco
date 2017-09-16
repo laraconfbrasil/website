@@ -65,8 +65,14 @@ layout: default
         <div class="gold">
             <h4>GOLD</h4>
             <div class="grid">
+                <a href="https://www.schoolofnet.com/">
+                    <img class="height-100" src="img/sponsors/school-of-net.png" alt="School of Net"/>
+                </a>
                 <a href="https://www.webmeeting.com.br/">
                     <img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
+                </a>
+                <a href="https://www.tbfhost.com.br/">
+                    <img class="height-60" src="img/sponsors/tbf.png" alt="TBF HOST"/>
                 </a>
             </div>
         </div>
@@ -101,6 +107,7 @@ layout: default
         <div class="grid">
             <img src="img/support/codecast.png" alt="Codecast" />
             <img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
+            <img src="img/support/kino.png" alt="Kino contabilidade" />
             <img src="img/support/imasters.png" alt="Imasters" />
             <img src="img/support/laravelsp.png" alt="Laravel SP" />
             <img src="img/support/tht.png" alt="Things Hacker Team" />
