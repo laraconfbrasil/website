@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "#LaraconfBrasil - A conferência para artesãos da web"
+url: http://laraconfbrasil.com.br
+image: http://laraconfbrasil.com.br/img/laravel_logo.png
 ---
 
 <header id="header">

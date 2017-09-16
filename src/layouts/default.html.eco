@@ -5,10 +5,10 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <title>#LaraconfBrasil - A conferência para artesões da web</title>
 
-    <meta property="og:title" content="#LaraconfBrasil - A conferência para artesãos da web"/>
+    <meta property="og:title" content="<%= @document.title %>"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://laraconfbrasil.com.br"/>
-    <meta property="og:image" content="http://laraconfbrasil.com.br/img/laravel_logo.png"/>
+    <meta property="og:url" content="<%= @document.url %>"/>
+    <meta property="og:image" content="<%= @document.image %>"/>
 
     <meta name="description"
           content="A #LaraconfBrasil e a primeira conferencia realizada com foco totalmente em Laravel e na comunidade PHP. E você vai ficar de fora ? Reserve na sua agenda o dia 08 de outubro de 2016">
