@@ -9,7 +9,10 @@
         <div class="row">
             <div>
                 <div id="sympla-widget-169502" height="auto"></div>
+                <script src="/js/sympla-temporary.js"></script>  
+                <!-- simpla is not working properly on HTTPS, this is temporary disabled
                 <script src="https://www.sympla.com.br/js/sympla.widget-pt.js/169502"></script>
+                -->
             </div>
         </div>
     </div>
