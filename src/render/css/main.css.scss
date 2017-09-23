@@ -427,6 +427,12 @@ body > section{
                         background-repeat: no-repeat;
                         background-size: 55%;
                         background-position: center;
+                        &.company{
+                            background-image: url(../img/icon_company.svg);
+                        }
+                        &.github{
+                            background-image: url(../img/icon_github.svg);
+                        }
                         &.twitter{
                             background-image: url(../img/icon_twitter.svg);
                         }
