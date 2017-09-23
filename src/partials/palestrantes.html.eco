@@ -8,8 +8,9 @@
                 <span> &nbsp </span>
                 <p> Apenas Laravel não basta! </p>
                 <div class="social-media">
-                    <a href="https://www.facebook.com/fabio.vedovelli" class="icon facebook" title="Facebook">Facebook</a>
-                    <a href="https://twitter.com/vedovelli" class="icon twitter" title="Twitter">Twitter</a>
+                    <a href="https://github.com/vedovelli" target="_blank" class="icon github" title="Github">Github</a>
+                    <a href="https://twitter.com/vedovelli" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                    <a href="https://www.facebook.com/fabio.vedovelli" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
                 </div>
             </figcaption>
         </figure>
@@ -21,7 +22,10 @@
                 <span> &nbsp </span>
                 <p>Laravel: O Estado da Arte</p>
                 <div class="social-media">
-                    <a href="https://www.facebook.com/hernandev" class="icon facebook" title="Facebook">Facebook</a>
+                    <a href="https://github.com/hernandev" target="_blank" class="icon github" title="Github">Github</a>
+                    <a href="https://twitter.com/_hernandev" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                    <a href="https://www.facebook.com/hernandev" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    <a href="https://sejakino.com.br/contabilidade-online" target="_blank" class="icon company" title="Empresa">Empresa</a>
                 </div>
             </figcaption>
         </figure>
