@@ -68,13 +68,13 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
         <div class="gold">
             <h4>GOLD</h4>
             <div class="grid">
-                <a href="https://www.schoolofnet.com/">
+                <a href="https://www.schoolofnet.com/" target="_blank" title="School of Net Cursos de Programação">
                     <img class="height-100" src="img/sponsors/school-of-net.png" alt="School of Net"/>
                 </a>
-                <a href="https://www.webmeeting.com.br/">
+                <a href="https://www.webmeeting.com.br/" target="_blank" title="Webmeeting Conferências e Web Streaming">
                     <img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
                 </a>
-                <a href="https://www.tbfhost.com.br/">
+                <a href="https://www.tbfhost.com.br/" target="_blank" title="TBF - Soluções em Núvem">
                     <img class="height-60" src="img/sponsors/tbf.png" alt="TBF HOST"/>
                 </a>
             </div>
@@ -84,22 +84,22 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
     <section class="comunidades">
         <h3>Comunidades</h3>
         <div class="grid">
-            <a href="https://www.facebook.com/groups/laravelsp/" target="_blank">
+            <a href="https://www.facebook.com/groups/laravelsp/" target="_blank" title="Comunidade Laravel São Paulo">
                 <img class="height-100" src="img/communities/logo_laravel_sp.png" alt="Laravel São Paulo" />
             </a>
-            <a href="http://phpcomrapadura.org/" target="_blank">
+            <a href="http://phpcomrapadura.org/" target="_blank" title="Comunidade PHP Com Rapadura">
                 <img src="img/communities/phpcomrapadura.png" alt="PHP com rapadura">
             </a>
-            <a href="http://www.phpdf.org.br/" target="_blank">
-                <img src="img/communities/php_df.png"                     alt="PHP DF - Comunidade de desenvolvedores PHP do Distrito Federal">
+            <a href="http://www.phpdf.org.br/" target="_blank" title="Comunidade PHP Distrito Federal">
+                <img src="img/communities/php_df.png" alt="PHP DF - Comunidade de desenvolvedores PHP do Distrito Federal">
             </a>
-            <a href="http://www.rumoacertificacaophp.com/" target="_blank">
+            <a href="http://www.rumoacertificacaophp.com/" target="_blank" title="Comunidade Rumo a Certificação PHP">
                 <img src="img/communities/ruma_a_certificacao.png" alt="Rumo a certificaçao PHP">
             </a>
-            <a href="http://www.phprs.com.br/" target="_blank">
+            <a href="http://www.phprs.com.br/" target="_blank" title="Comunidade PHP Rio Grande so Sul">
                 <img src="img/communities/phprs.png" alt="Comunidade de desenvolvedores do Rio Grande do Sul" title="Comunidade de desenvolvedores do Rio Grande do Sul">
             </a>
-            <a href="http://www.phpsp.org.br/" target="_blank">
+            <a href="http://www.phpsp.org.br/" target="_blank" title="Comunidade PHP São Paulo">
                 <img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" title="Comunidade de desenvolvedores de São Paulo">
             </a>
         </div>
@@ -108,12 +108,27 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
     <section class="apoios">
         <h3>Apoios</h3>
         <div class="grid">
-            <img src="img/support/codecast.png" alt="Codecast" />
-            <img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
-            <img src="img/support/kino.png" alt="Kino contabilidade" />
-            <img src="img/support/imasters.png" alt="Imasters" />
-            <img src="img/support/laravelsp.png" alt="Laravel SP" />
-            <img src="img/support/tht.png" alt="Things Hacker Team" />
+            <a href="https://codecasts.com.br/lesson" target="_blank" title="CODECASTS">
+                <img src="img/support/codecast.png" alt="CODECASTS" />
+            </a>
+            <a href="https://www.casadocodigo.com.br/" target="_blank" title="Editora Casa do Código">
+                <img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
+            </a>
+            <a href="https://sejakino.com.br/contabilidade-online" target="_blank" title="Contabilidade Online">
+                <img src="img/support/kino.png" alt="Kino contabilidade" />
+            </a>
+            <a href="https://imasters.com.br" target="_blank" title="Imasters">
+                <img src="img/support/imasters.png" alt="Imasters" />
+            </a>
+            <a href="https://www.meetup.com/Laravel-SP" target="_blank" title="Laravel SP">
+                <img src="img/support/laravelsp.png" alt="Laravel SP" />
+            </a>
+            <a href="https://www.meetup.com/Laravel-SP" target="_blank" title="Laravel SP">
+                <img src="img/support/laravelsp.png" alt="Laravel SP" />
+            </a>
+            <a href="https://www.meetup.com/THT-Things-Hacker-Team" target="_blank" title="Things Hacker Team">
+                <img src="img/support/tht.png" alt="Things Hacker Team" />
+            </a>
         </div>
     </section>
 </section>
