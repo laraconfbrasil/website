@@ -16,7 +16,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker8.jpeg" alt="Diego Hernandes"/>
+            <img src="img/speakers/speaker2.jpeg" alt="Diego Hernandes"/>
             <figcaption>
                 <h4>Diego Hernandes</h4>
                 <span> &nbsp </span>
@@ -31,13 +31,153 @@
         </figure>
 
         <figure class="palestrante ">
-            <a href="https://goo.gl/forms/Q2NhiwLkzZ7TwQZp2" target="_blank">
+            <img src="img/speakers/speaker3.jpeg" alt=""/>
+            <a href="" target="_blank">
                 <figcaption>
-                    <h4>Você ?</h4>
+                    <h4>Lucas Pires Mattos</h4>
                     <span> &nbsp </span>
-                    <p>Mande sua palestra, e participe do maior evento de Laravel do Brasil!</p>
+                    <p></p>
                 </figcaption>
             </a>
         </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker4.jpg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Marcos Felipe Nalin Furtado</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker5.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Vinícius Bail Alonso</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker6.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Guilherme Guitte</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker7.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Vitor Bari Buccianti</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker8.jpg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Ricardo Plansky Jr.</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker9.jpg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Camila Silva Fernande</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker10.jpg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Gabriel Caruso</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker11.jpg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Renoir dos Reis</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker12.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Eduardo Cesar</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker13.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Gabriel Koerich</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker14.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Vitor Talaia</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker15.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Leandro Costa Martins</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker16.jpeg" alt=""/>
+            <a href="" target="_blank">
+                <figcaption>
+                    <h4>Erik Vanderlei Fernandes</h4>
+                    <span> &nbsp </span>
+                    <p></p>
+                </figcaption>
+            </a>
+        </figure>
+
     </div>
 </section>
