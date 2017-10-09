@@ -36,7 +36,7 @@
                 <figcaption>
                     <h4>Lucas Pires Mattos</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Criando pacotes com Laravel</p>
                 </figcaption>
             </a>
         </figure>
@@ -47,7 +47,7 @@
                 <figcaption>
                     <h4>Marcos Felipe Nalin Furtado</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Design pattern não é apenas SOLID</p>
                 </figcaption>
             </a>
         </figure>
@@ -58,7 +58,7 @@
                 <figcaption>
                     <h4>Vinícius Bail Alonso</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Clean Code: como tornar nossos códigos legiveis para seres humanos</p>
                 </figcaption>
             </a>
         </figure>
@@ -69,7 +69,7 @@
                 <figcaption>
                     <h4>Guilherme Guitte</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Testes automizados: Tomando as rédeas do seu código (ou de outros)</p>
                 </figcaption>
             </a>
         </figure>
@@ -80,7 +80,7 @@
                 <figcaption>
                     <h4>Vitor Bari Buccianti</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>HTTP/2 Para Desenvolvedores PHP</p>
                 </figcaption>
             </a>
         </figure>
@@ -91,7 +91,7 @@
                 <figcaption>
                     <h4>Ricardo Plansky Jr.</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Como construir um MVP com design de código evolutivo guiado a testes</p>
                 </figcaption>
             </a>
         </figure>
@@ -101,7 +101,7 @@
                 <figcaption>
                     <h4>Camila Silva Fernande</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>API Restfull com Laravel</p>
                 </figcaption>
             </a>
         </figure>
@@ -111,7 +111,7 @@
                 <figcaption>
                     <h4>Gabriel Caruso</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Collections, uma solução?!</p>
                 </figcaption>
             </a>
         </figure>
@@ -121,7 +121,7 @@
                 <figcaption>
                     <h4>Renoir dos Reis</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Community Punch</p>
                 </figcaption>
             </a>
         </figure>
@@ -141,7 +141,7 @@
                 <figcaption>
                     <h4>Gabriel Koerich</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Workflow & Infra para aplicações web</p>
                 </figcaption>
             </a>
         </figure>
@@ -152,7 +152,7 @@
                 <figcaption>
                     <h4>Vitor Talaia</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Aplicações CLI com Crystal</p>
                 </figcaption>
             </a>
         </figure>
@@ -174,7 +174,7 @@
                 <figcaption>
                     <h4>Erik Vanderlei Fernandes</h4>
                     <span> &nbsp </span>
-                    <p></p>
+                    <p>Laravel e seu ecossistema</p>
                 </figcaption>
             </a>
         </figure>
