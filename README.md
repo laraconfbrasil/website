@@ -3,18 +3,18 @@
 
 # Edições
 
-* [laraconfBrasil 2016](http://laraconfbrasil.com.br/2016/render/)
+* [LaraconfBrasil 2016](http://laraconfbrasil.com.br/2016/render/)
 
 # LaraconfBrasil website
 
-Esse é o repositório oficial com o código fonte do [laraconfbrasil](http://laraconfbrasil.com.br) onde utilizamos
+Esse é o repositório oficial com o código fonte do [LaraconfBrasil](http://laraconfbrasil.com.br) onde utilizamos
 o HTML5 boilerplate como base.
 
 Essa é uma iniciativa para que possamos compartilhar o código fonte que é exibido no site oficial da conferência, podendo assim facilitar a interação entre o evento e a comunidade.
 
 ## Utilizamos o Docpad para organizar esse projeto
 
-De maneira  eficiênte o docpad nos fornece uma maneira simples e rápida para gerenciar conteúdo estático.
+De maneira eficiênte o docpad nos fornece uma maneira simples e rápida para gerenciar conteúdo estático.
 
 ## Estrutura
 
@@ -28,9 +28,9 @@ src
 
 # Quer ser nosso parceiro?
 
-É muito simples ser um de nossos parceiros, forke o repositório e adicione suas informações na seção **COUMNIDADES PARCEIRAS**.
+É muito simples ser um de nossos parceiros, forke o repositório e adicione suas informações na seção **COMUNIDADES PARCEIRAS**.
 
-Os logotipos das comunidades estão divididos em três colunas a cada linha, veja o código seguinte e a sua representação na imagem
+Os logotipos das comunidades estão divididos em três colunas a cada linha, veja o código seguinte e a sua representação na imagem:
 
 ``` html
 <div class="row">
@@ -64,5 +64,4 @@ Os logotipos das comunidades estão divididos em três colunas a cada linha, vej
 ```
 ![Representação dos logotipos](https://s22.postimg.org/pumgoi041/contribuicao.png)
 
-Seguindo esse padrão seu logotipo será incorporado com sucesso na nossa página e será exibido no site oficial do **#LaraconfBrasil**
-
+Seguindo esse padrão seu logotipo será incorporado com sucesso na nossa página e será exibido no site oficial do **#LaraconfBrasil**.
