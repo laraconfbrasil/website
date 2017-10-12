@@ -21,7 +21,7 @@ De maneira eficiênte o docpad nos fornece uma maneira simples e rápida para ge
 A estrutura do projeto esta dividida da seguinte forma:
 
 ```
-src 
+src
 |__ partials - todo o conteúdo de fato do site encontra-se aqui
 |__ layouts  - o layout padrão utilizado pelo site
 ```
@@ -42,7 +42,7 @@ Os logotipos das comunidades estão divididos em três colunas a cada linha, vej
             </a>
         </div>
     </div>
-    
+
     <!-- logo PHP com rapadura -->
     <div class="col-sm-4">
         <div class="sponsors-member">
@@ -51,7 +51,7 @@ Os logotipos das comunidades estão divididos em três colunas a cada linha, vej
             </a>
         </div>
     </div>
-    
+
     <!-- logo PHP DF -->
     <div class="col-sm-4">
         <div class="sponsors-member">
