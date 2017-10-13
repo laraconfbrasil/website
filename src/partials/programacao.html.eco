@@ -153,41 +153,38 @@
                         <time datetime="2016-08-10 09:00:00">09:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 1</span>
+                        <small>Fabio Vedovelli</small>
+                        <span>Apenas Laravel não basta!</span>
                         <p>
-                            --
                         </p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
                     <td>
-                        <time datetime="2016-08-10 10:00:00">10:00</time>
+                        <time datetime="2016-08-10 10:00:00">09:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 2</span>
+                        <small>Erik Vanderlei Fernandes</small>
+                        <span>Laravel e seu ecossistema</span>
                         <p></p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
                     <td>
-                        <time datetime="2016-08-10 11:00:00">11:00</time>
+                        <time datetime="2016-08-10 11:00:00">10:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 3</span>
+                        <small>Guilherme Guitte</small>
+                        <span>Testes automizados: Tomando as rédeas do seu código (ou de outros)</span>
                         <p></p>
                     </td>
                 </tr>
-                <tr class="icon palestra">
+                <tr class="icon coffee">
                     <td>
                         <time datetime="2016-08-10 11:30:00">11:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 4</span>
-                        <p></p>
+                        <span>LUNCH TIME!</span>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -195,8 +192,8 @@
                         <time datetime="2016-08-10 13:00:00">13:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 5</span>
+                        <small>Vinícius Bail Alonso</small>
+                        <span>Clean Code: como tornar nossos códigos legiveis para seres humanos</span>
                         <p></p>
                     </td>
                 </tr>
