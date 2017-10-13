@@ -26,11 +26,9 @@
                         <time datetime="2016-08-10 09:00:00">09:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 1</span>
-                        <p>
-                            --
-                        </p>
+                        <small>Camila Silva Fernandes</small>
+                        <span>API Restfull com Laravel</span>
+                        <p></p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -38,8 +36,8 @@
                         <time datetime="2016-08-10 10:00:00">10:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 2</span>
+                        <small>Gabriel Caruso</small>
+                        <span>Collections, uma solução?</span>
                         <p></p>
                     </td>
                 </tr>
@@ -48,19 +46,17 @@
                         <time datetime="2016-08-10 11:00:00">11:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 3</span>
+                        <small>Renoir dos Reis</small>
+                        <span>Community Punch</span>
                         <p></p>
                     </td>
                 </tr>
-                <tr class="icon palestra">
+                <tr class="icon coffee">
                     <td>
                         <time datetime="2016-08-10 11:30:00">11:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 4</span>
-                        <p></p>
+                        <span>LUNCH TIME!</span>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -68,8 +64,8 @@
                         <time datetime="2016-08-10 13:00:00">13:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 5</span>
+                        <small>Marcos Felipe Nalin Furtado</small>
+                        <span>Design patterns não é apenas SOLID</span>
                         <p></p>
                     </td>
                 </tr>
@@ -78,24 +74,24 @@
                         <time datetime="2016-08-10 13:30:00">13:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 6</span>
+                        <small>Vitor Bari Buccianti</small>
+                        <span>HTTP/2 Para Desenvolvedores PHP</span>
                         <p></p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
                     <td>
-                        <time datetime="2016-08-10 14:30:00">14:30</time>
+                        <time datetime="2016-08-10 14:00:00">14:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 7</span>
+                        <small>Gabriel Koerich</small>
+                        <span>Workflow & Infra para aplicações web</span>
                         <p></p>
                     </td>
                 </tr>
                 <tr class="icon coffee">
                     <td>
-                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                        <time datetime="2016-08-10 15:30:00">15:00</time>
                     </td>
                     <td>
                         <span>COFFEE</span>
@@ -103,11 +99,21 @@
                 </tr>
                 <tr class="icon palestra">
                     <td>
-                        <time datetime="2016-08-10 16:00:00">16:00</time>
+                        <time datetime="2016-08-10 16:00:00">15:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 8</span>
+                        <small>Vitor Talaia</small>
+                        <span>Aplicações CLI com Crystal</span>
+                        <p></p>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 17:00:00">16:00</time>
+                    </td>
+                    <td>
+                        <small>Lucas Pires Mattos</small>
+                        <span>Criando pacotes com Laravel</span>
                         <p></p>
                     </td>
                 </tr>
@@ -116,8 +122,8 @@
                         <time datetime="2016-08-10 17:00:00">17:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 9</span>
+                        <small>Ricardo Plansky Jr.</small>
+                        <span>Como construir um MVP com design de código evolutivo guiado a testes</span>
                         <p></p>
                     </td>
                 </tr>
