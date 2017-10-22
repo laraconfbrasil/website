@@ -102,6 +102,9 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
             <a href="http://www.phpsp.org.br/" target="_blank" title="Comunidade PHP São Paulo">
                 <img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" title="Comunidade de desenvolvedores de São Paulo">
             </a>
+             <a href="https://www.phpmaranhao.com.br/" target="_blank" title="PHP Maranhão">
+                <img src="img/support/phpma.png" alt="PHP Maranhão" />
+            </a>
         </div>
     </section>
 
