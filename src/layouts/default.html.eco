@@ -9,6 +9,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="<%= @document.url %>"/>
     <meta property="og:image" content="<%= @document.image %>"/>
+    <meta name="theme-color" content="#000e4f"/>
 
     <meta name="description"
           content="A #LaraconfBrasil e a primeira conferencia realizada com foco totalmente em Laravel e na comunidade PHP. E você vai ficar de fora ? Reserve na sua agenda os dias 17 e 18 de novembro de 2017">
