@@ -8,7 +8,9 @@
     <meta property="og:title" content="<%= @document.title %>"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="<%= @document.url %>"/>
-    <meta property="og:image" content="<%= @document.image %>"/>
+    <meta property="og:image" content="<%= @document.image %>"/>    
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@laraconfbrazil"/>
     <meta name="theme-color" content="#000e4f"/>
 
     <meta name="description"
