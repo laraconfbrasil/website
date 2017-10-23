@@ -6,7 +6,7 @@
             <figcaption>
                 <h4>Fábio Vedovelli</h4>
                 <span> &nbsp </span>
-                <p> Apenas Laravel não basta! </p>
+                <p>Apenas Laravel não basta!</p>
                 <div class="social-media">
                     <a href="https://github.com/vedovelli" target="_blank" class="icon github" title="Github">Github</a>
                     <a href="https://twitter.com/vedovelli" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
@@ -31,7 +31,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker3.jpeg" alt=""/>
+            <img src="img/speakers/speaker3.jpeg" alt="Lucas Pires Mattos"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Lucas Pires Mattos</h4>
@@ -42,7 +42,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker4.jpg" alt=""/>
+            <img src="img/speakers/speaker4.jpg" alt="Marcos Felipe Nalin Furtado"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Marcos Felipe Nalin Furtado</h4>
@@ -53,7 +53,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker5.jpeg" alt=""/>
+            <img src="img/speakers/speaker5.jpeg" alt="Vinícius Bail Alonso"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Vinícius Bail Alonso</h4>
@@ -64,7 +64,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker6.jpeg" alt=""/>
+            <img src="img/speakers/speaker6.jpeg" alt="Guilherme Guitte"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Guilherme Guitte</h4>
@@ -75,7 +75,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker7.jpeg" alt=""/>
+            <img src="img/speakers/speaker7.jpeg" alt="Vitor Bari Buccianti"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Vitor Bari Buccianti</h4>
@@ -86,7 +86,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker8.jpg" alt=""/>
+            <img src="img/speakers/speaker8.jpg" alt="Ricardo Plansky Jr."/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Ricardo Plansky Jr.</h4>
@@ -96,7 +96,7 @@
             </a>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker9.jpg" alt=""/>
+            <img src="img/speakers/speaker9.jpg" alt="Camila Silva Fernande"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Camila Silva Fernande</h4>
@@ -106,7 +106,7 @@
             </a>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker10.jpg" alt=""/>
+            <img src="img/speakers/speaker10.jpg" alt="Gabriel Caruso"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Gabriel Caruso</h4>
@@ -116,7 +116,7 @@
             </a>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker11.jpg" alt=""/>
+            <img src="img/speakers/speaker11.jpg" alt="Renoir dos Reis"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Renoir dos Reis</h4>
@@ -126,7 +126,7 @@
             </a>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker12.jpeg" alt=""/>
+            <img src="img/speakers/speaker12.jpeg" alt="Eduardo Cesar"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Eduardo Cesar</h4>
@@ -136,7 +136,7 @@
             </a>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker13.jpeg" alt=""/>
+            <img src="img/speakers/speaker13.jpeg" alt="Gabriel Koerich"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Gabriel Koerich</h4>
@@ -147,7 +147,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker14.jpeg" alt=""/>
+            <img src="img/speakers/speaker14.jpeg" alt="Vitor Talaia"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Vitor Talaia</h4>
@@ -158,7 +158,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker15.jpeg" alt=""/>
+            <img src="img/speakers/speaker15.jpeg" alt="Leandro Costa Martins"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Leandro Costa Martins</h4>
@@ -169,7 +169,7 @@
         </figure>
 
         <figure class="palestrante ">
-            <img src="img/speakers/speaker16.jpeg" alt=""/>
+            <img src="img/speakers/speaker16.jpeg" alt="Erik Vanderlei Fernandes"/>
             <a href="" target="_blank">
                 <figcaption>
                     <h4>Erik Vanderlei Fernandes</h4>
