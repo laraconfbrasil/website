@@ -37,6 +37,11 @@
                     <h4>Lucas Pires Mattos</h4>
                     <span> &nbsp </span>
                     <p>Criando pacotes com Laravel</p>
+                    <div class="social-media">
+                        <a href="https://github.com/flyingluscas" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/flyingluscas" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/lucas.piresdemattos" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -48,6 +53,11 @@
                     <h4>Marcos Felipe Nalin Furtado</h4>
                     <span> &nbsp </span>
                     <p>Design pattern não é apenas SOLID</p>
+                    <div class="social-media">
+                        <a href="https://github.com/omarkdev" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/omarkdev" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/omarkdev" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -59,6 +69,11 @@
                     <h4>Vinícius Bail Alonso</h4>
                     <span> &nbsp </span>
                     <p>Clean Code: como tornar nossos códigos legiveis para seres humanos</p>
+                    <div class="social-media">
+                        <a href="https://github.com/viniciusalonso" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/alonsoemacao" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/vinicius.alonso.58" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -70,6 +85,11 @@
                     <h4>Guilherme Guitte</h4>
                     <span> &nbsp </span>
                     <p>Testes automizados: Tomando as rédeas do seu código (ou de outros)</p>
+                    <div class="social-media">
+                        <a href="https://github.com/GuilhermeGuitte" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/guilhermeguitte" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/guilherme.guitte" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -81,6 +101,9 @@
                     <h4>Vitor Bari Buccianti</h4>
                     <span> &nbsp </span>
                     <p>HTTP/2 Para Desenvolvedores PHP</p>
+                    <div class="social-media">
+                        <a href="https://github.com/vitorbari" target="_blank" class="icon github" title="Github">Github</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -102,6 +125,9 @@
                     <h4>Camila Silva Fernande</h4>
                     <span> &nbsp </span>
                     <p>API Restfull com Laravel</p>
+                    <div class="social-media">
+                        <a href="https://github.com/Camilafernandes" target="_blank" class="icon github" title="Github">Github</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -112,6 +138,11 @@
                     <h4>Gabriel Caruso</h4>
                     <span> &nbsp </span>
                     <p>Collections, uma solução?!</p>
+                    <div class="social-media">
+                        <a href="https://github.com/gabriel-caruso" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/carusogabriel" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/carusogabriel" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -122,6 +153,11 @@
                     <h4>Renoir dos Reis</h4>
                     <span> &nbsp </span>
                     <p>Community Punch</p>
+                    <div class="social-media">
+                        <a href="https://github.com/renoirfaria" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/renoirfaria" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/renoirfaria" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -132,6 +168,9 @@
                     <h4>Eduardo Cesar</h4>
                     <span> &nbsp </span>
                     <p></p>
+                    <div class="social-media">
+                        <a href="https://github.com/Bolinha1" target="_blank" class="icon github" title="Github">Github</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -142,6 +181,10 @@
                     <h4>Gabriel Koerich</h4>
                     <span> &nbsp </span>
                     <p>Workflow & Infra para aplicações web</p>
+                    <div class="social-media">
+                        <a href="https://github.com/gabrielkoerich" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/gabrielmkoerich" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -153,6 +196,11 @@
                     <h4>Vitor Talaia</h4>
                     <span> &nbsp </span>
                     <p>Aplicações CLI com Crystal</p>
+                    <div class="social-media">
+                        <a href="https://github.com/vitortalaia" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://twitter.com/vitortalaia" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                        <a href="https://www.facebook.com/vitortalaia" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
@@ -175,6 +223,10 @@
                     <h4>Erik Vanderlei Fernandes</h4>
                     <span> &nbsp </span>
                     <p>Laravel e seu ecossistema</p>
+                    <div class="social-media">
+                        <a href="https://github.com/erikprogramador" target="_blank" class="icon github" title="Github">Github</a>
+                        <a href="https://www.facebook.com/erik.vanderleifernandes" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    </div>
                 </figcaption>
             </a>
         </figure>
