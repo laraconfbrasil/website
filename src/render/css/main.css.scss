@@ -903,6 +903,8 @@ body > section{
                     }
                     &.company{
                         background-image: url(../img/icon_company_gray.svg);
+                    &.github{
+                        background-image: url(../img/icon_github_gray.svg);
                     }
                 }
             }
