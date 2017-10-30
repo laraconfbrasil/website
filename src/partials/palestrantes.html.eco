@@ -175,7 +175,12 @@
             <figcaption>
                 <h4>Leandro Costa Martins</h4>
                 <span> &nbsp </span>
-                <p></p>
+                <p>Provisionando seu ambiente Laravel com Ansible</p>
+                <div class="social-media">
+                    <a href="https://github.com/leandrocostam" target="_blank" class="icon github" title="Github">Github</a>
+                    <a href="https://www.facebook.com/leandrocostam" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    <a href="https://www.leroymerlin.com.br/" target="_blank" class="icon company" title="Empresa">Empresa</a>
+                </div>
             </figcaption>
         </figure>
 
