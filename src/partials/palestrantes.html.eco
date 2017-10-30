@@ -85,19 +85,6 @@
                 </div>
             </figcaption>
         </figure>
-
-        <figure class="palestrante ">
-            <img src="img/speakers/speaker7.jpeg" alt="Vitor Bari Buccianti"/>
-            <figcaption>
-                <h4>Vitor Bari Buccianti</h4>
-                <span> &nbsp </span>
-                <p>HTTP/2 Para Desenvolvedores PHP</p>
-                <div class="social-media">
-                    <a href="https://github.com/vitorbari" target="_blank" class="icon github" title="Github">Github</a>
-                </div>
-            </figcaption>
-        </figure>
-
         <figure class="palestrante ">
             <img src="img/speakers/speaker8.jpg" alt="Ricardo Plansky Jr."/>
             <figcaption>
