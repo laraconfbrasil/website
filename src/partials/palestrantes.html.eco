@@ -77,11 +77,12 @@
             <figcaption>
                 <h4>Guilherme Guitte</h4>
                 <span> &nbsp </span>
-                <p>Testes automizados: Tomando as rédeas do seu código (ou de outros)</p>
+                <p>Testes automatizados: Tomando as rédeas do seu código (ou de outros)</p>
                 <div class="social-media">
                     <a href="https://github.com/GuilhermeGuitte" target="_blank" class="icon github" title="Github">Github</a>
                     <a href="https://twitter.com/guilhermeguitte" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
                     <a href="https://www.facebook.com/guilherme.guitte" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    <a href="https://www.leroymerlin.com.br/" target="_blank" class="icon company" title="Empresa">Empresa</a>
                 </div>
             </figcaption>
         </figure>
