@@ -219,10 +219,20 @@
                 </tr>
                 <tr class="icon coffee">
                     <td>
-                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                        <time datetime="2016-08-10 15:00:00">15:00</time>
                     </td>
                     <td>
                         <span>COFFEE</span>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                    </td>
+                    <td>
+                        <small>Eduardo Cesar</small>
+                        <span>Porque escolhemos o Laravel - uma visão que está além do ponto de vista técnico</span>
+                        <p></p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
