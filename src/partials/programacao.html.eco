@@ -74,8 +74,8 @@
                         <time datetime="2016-08-10 13:30:00">13:30</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT</span>
+                        <small>Leandro Costa Martins</small>
+                        <span>Provisionando seu ambiente Laravel com Ansible</span>
                         <p></p>
                     </td>
                 </tr>
@@ -175,7 +175,7 @@
                     </td>
                     <td>
                         <small>Guilherme Guitte</small>
-                        <span>Testes automizados: Tomando as rédeas do seu código (ou de outros)</span>
+                        <span>Testes automatizados: Tomando as rédeas do seu código (ou de outros)</span>
                         <p></p>
                     </td>
                 </tr>
@@ -219,10 +219,20 @@
                 </tr>
                 <tr class="icon coffee">
                     <td>
-                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                        <time datetime="2016-08-10 15:00:00">15:00</time>
                     </td>
                     <td>
                         <span>COFFEE</span>
+                    </td>
+                </tr>
+                <tr class="icon palestra">
+                    <td>
+                        <time datetime="2016-08-10 15:30:00">15:30</time>
+                    </td>
+                    <td>
+                        <small>Eduardo Cesar</small>
+                        <span>Porque escolhemos o Laravel - uma visão que está além do ponto de vista técnico</span>
+                        <p></p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
