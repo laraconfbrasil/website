@@ -251,7 +251,7 @@ body > section{
     *{
         text-align: center;
     }
-    
+
     .scroll-down{
         position: absolute;
         left: 0px;
@@ -289,7 +289,7 @@ body > section{
         }
 
     }
-    
+
     .wrapper{
         width: 620px;
         max-width: 100%;
@@ -606,7 +606,7 @@ body > section{
             left: 50%;
             transform: translateX(-50%);
             bottom: 0px;
-        }    
+        }
     }
     .gold h4::after{
         background: #ffc724;
@@ -900,6 +900,9 @@ body > section{
                     }
                     &.facebook{
                         background-image: url(../img/icon_facebook_gray.svg);
+                    }
+                    &.company{
+                        background-image: url(../img/icon_company_gray.svg);
                     }
                 }
             }
