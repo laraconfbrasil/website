@@ -201,5 +201,15 @@
                 </div>
             </figcaption>
         </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker17.jpg" alt="Vinicius Reis"/>
+            <figcaption>
+                <h4>Vinicius Reis</h4>
+                <span> &nbsp </span>
+                <p>Domínios, do monolítico ao micro-servico</p>
+                <div class="social-media"></div>
+            </figcaption>
+        </figure>
     </div>
 </section>
