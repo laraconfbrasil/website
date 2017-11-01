@@ -240,8 +240,8 @@
                         <time datetime="2016-08-10 16:00:00">16:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 8</span>
+                        <small>Vinicius Reis</small>
+                        <span>Domínios, do monolítico ao micro-servico</span>
                         <p></p>
                     </td>
                 </tr>
@@ -250,8 +250,8 @@
                         <time datetime="2016-08-10 17:00:00">17:00</time>
                     </td>
                     <td>
-                        <small>--</small>
-                        <span>SLOT 9</span>
+                        <small>Diego hernandes</small>
+                        <span>Laravel: O Estado da Arte</span>
                         <p></p>
                     </td>
                 </tr>
