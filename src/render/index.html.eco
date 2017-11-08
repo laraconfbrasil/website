@@ -77,6 +77,9 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
                 <a href="https://www.tbfhost.com.br/" target="_blank" title="TBF - Soluções em Núvem">
                     <img class="height-60" src="img/sponsors/tbf.png" alt="TBF HOST"/>
                 </a>
+                <a href="https://www.leroymerlin.com.br/" target="_blank" title="Leroy Merlin - A casa da sua casa">
+                    <img class="height-60" src="img/sponsors/leroy.jpg" alt="Leroy Merlin"/>
+                </a>
             </div>
         </div>
     </section>
