@@ -46,9 +46,9 @@
                         <time datetime="2016-08-10 11:00:00">11:00</time>
                     </td>
                     <td>
-                        <small>A DEFINIR</small>
-                        <span>A DEFINIR</span>
-                        <p></p>
+                        <small>Ravan Scafi</small>
+                        <span>Entenda de uma vez por todas o Container do Laravel</span>
+                        <p>Mais do que uma forma de injetar dependências no construtor de classes, o container do Laravel é uma ferramenta poderosa do framework, que você já usa e talvez não conheça. Entenda como o Container auxilia no Dependency Inversion Principle do SOLID, conheça os principais tipos de bindings e, de quebra, aprenda sobre Contracts, Service Providers e Facades.</p>
                     </td>
                 </tr>
                 <tr class="icon coffee">

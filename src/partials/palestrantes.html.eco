@@ -86,6 +86,22 @@
                 </div>
             </figcaption>
         </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker7.jpg" alt="Marcos Felipe Nalin Furtado"/>
+            <figcaption>
+                <h4>Ravan Scafi</h4>
+                <span> &nbsp; </span>
+                <p>Entenda de uma vez por todas o Container do Laravel</p>
+                <div class="social-media">
+                    <a href="https://github.com/rscafi" target="_blank" class="icon github" title="Github">Github</a>
+                    <a href="https://twitter.com/ravanscafi" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
+                    <a href="https://www.facebook.com/rscafi" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                    <a href="https://www.leroymerlin.com.br/" target="_blank" class="icon company" title="Empresa">Empresa</a>
+                </div>
+            </figcaption>
+        </figure>
+
         <figure class="palestrante ">
             <img src="img/speakers/speaker8.jpg" alt="Ricardo Plansky Jr."/>
             <figcaption>
