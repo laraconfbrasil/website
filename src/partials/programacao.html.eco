@@ -27,8 +27,8 @@
                     </td>
                     <td>
                         <small>Camila Silva Fernandes</small>
-                        <span>API Restfull com Laravel</span>
-                        <p></p>
+                        <span>API RESTful com Laravel</span>
+                        <p>O Laravel é um Framework, com sintaxe elegante e expressiva, que tem como principal característica ajudar a desenvolver aplicações seguras e robustas de forma ágil e eficiente, com uma documentação vasta e acessível, tornando fácil e rápido o desenvolvimento. Vamos aproveitar a agilidade para criação de rotas controlers e views que o Laravel nos proporciona para construir uma API RESTFul simples.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -38,7 +38,7 @@
                     <td>
                         <small>Gabriel Caruso</small>
                         <span>Collections, uma solução?!</span>
-                        <p></p>
+                        <p>Collections do Laravel seria uma “gambiarra” para o trabalho com arrays, strings, e outros dados, seja facilitado? Você sabe o que é uma Collection do Laravel? Quais benefícios ela te trás ao seus projetos Laravel, e PHP?</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -66,7 +66,7 @@
                     <td>
                         <small>Marcos Felipe Nalin Furtado</small>
                         <span>Design patterns não é apenas SOLID</span>
-                        <p></p>
+                        <p>Quando se fala de Design Patterns, na maioria dos casos sempre vemos sobre SOLID, mas existe um mundo além do SOLID.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -76,7 +76,7 @@
                     <td>
                         <small>Leandro Costa Martins</small>
                         <span>Provisionando seu ambiente Laravel com Ansible</span>
-                        <p></p>
+                        <p>Tenha seu ambiente Laravel provisionado em apenas alguns minutos utilizando o Ansible. Conheça essa ferramenta simples, poderosa e open-source, que ajuda você a provisionar e configurar a infraestrutura necessária para sua aplicação.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -86,7 +86,7 @@
                     <td>
                         <small>Gabriel Koerich</small>
                         <span>Workflow & Infra para aplicações web</span>
-                        <p></p>
+                        <p>A ideia é mostrar o workflow desde o desenvolvimento até o deploy em produção, passando pelo software para gerenciamento de projetos, GitHub & pull requests, config, testes automatizados, deploy contínuo com zero downtime, monitoring e toda a configuração de infra como CDN, multi servers, load balancer, master/slave database, queues e como tudo isso se encaixa no ambiente do Laravel.</p>
                     </td>
                 </tr>
                 <tr class="icon coffee">
@@ -104,7 +104,7 @@
                     <td>
                         <small>Vitor Talaia</small>
                         <span>Aplicações CLI com Crystal</span>
-                        <p></p>
+                        <p>Nessa talk, veremos como criar CLIs usando a linguagem de programação Crystal. Uma linguagem relativamente nova que tem como objetivo ser rápida como C e agradável como Ruby.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -114,7 +114,7 @@
                     <td>
                         <small>Lucas Pires Mattos</small>
                         <span>Criando pacotes com Laravel</span>
-                        <p></p>
+                        <p>Aprenda como trabalhar com Service Providers, Routing, Controllers, Views, Migrations e muito mais ao criar seus próprios pacotes.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -124,7 +124,7 @@
                     <td>
                         <small>Ricardo Plansky Jr.</small>
                         <span>Como construir um MVP com design de código evolutivo guiado a testes</span>
-                        <p></p>
+                        <p>O termo MVP está cada vez mais evidente no dia-a-dia das empresas e desenvolvedores, muito pelo time to market ou até mesmo porque empresas que não têm a filosofia de qualidade que e acham que entregar um MVP sempre é saudável e com menor custo. Mas por outro lado, temos um conceito que MVP é um código temporário e que não precisamos focar tanto em qualidade ou testes, o que não é verdade sempre. Nesta talk vou falar como evitar de ter um código legado construindo um MVP com uma suíte de testes segura e com um design de código preparado para crescer utilizando Lumen.</p>
                     </td>
                 </tr>
             </tbody>
@@ -155,8 +155,7 @@
                     <td>
                         <small>Fabio Vedovelli</small>
                         <span>Apenas Laravel não basta!</span>
-                        <p>
-                        </p>
+                        <p>A palestra discorrerá sobre a importância do front end, UX, suas complexidades e como o Laravel torna a curva de aprendizado e o próprio desenvolvimento front end mais suaves para o desenvolvedor.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -166,7 +165,7 @@
                     <td>
                         <small>Erik Vanderlei Fernandes</small>
                         <span>Laravel e seu ecossistema</span>
-                        <p></p>
+                        <p>Como o ecossistema Laravel possibilita um desenvolvimento mais rápido.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -176,7 +175,7 @@
                     <td>
                         <small>Guilherme Guitte</small>
                         <span>Testes automatizados: Tomando as rédeas do seu código (ou de outros)</span>
-                        <p></p>
+                        <p>Por que (deveríamos) escrevemos testes automatizados? Como começar? Qual o benefício para sua carreira? Minha aplicação é legada, como começar? O que é pirâmide de testes? Iceberg?</p>
                     </td>
                 </tr>
                 <tr class="icon coffee">
@@ -194,7 +193,7 @@
                     <td>
                         <small>Vinícius Bail Alonso</small>
                         <span>Clean Code: como tornar nossos códigos legiveis para seres humanos</span>
-                        <p></p>
+                        <p>Escrever código para um compilador é fácil, basta seguir as regras de sintaxe. Difícil é tornar esse código legível para quem irá trabalhar com ele no futuro. Nessa palestra vamos ver pequenos detalhes como, nomes expressivos e funções bem escritas, podem transformar um software.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
