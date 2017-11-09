@@ -125,19 +125,6 @@
             </figcaption>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker11.jpg" alt="Renoir dos Reis"/>
-            <figcaption>
-                <h4>Renoir dos Reis</h4>
-                <span> &nbsp </span>
-                <p>Community Punch</p>
-                <div class="social-media">
-                    <a href="https://github.com/renoirfaria" target="_blank" class="icon github" title="Github">Github</a>
-                    <a href="https://twitter.com/renoirfaria" target="_blank" class="icon twitter" title="Twitter">Twitter</a>
-                    <a href="https://www.facebook.com/renoirfaria" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
-                </div>
-            </figcaption>
-        </figure>
-        <figure class="palestrante ">
             <img src="img/speakers/speaker12.jpeg" alt="Eduardo Cesar"/>
             <figcaption>
                 <h4>Eduardo Cesar</h4>
