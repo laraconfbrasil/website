@@ -213,7 +213,7 @@
                     <td>
                         <small>Wilton Guilherme</small>
                         <span>Produtividade no Desenvolvimento usando Laravel com Docker</span>
-                        <p></p>
+                        <p>Mostrar como um ambiente de desenvolvimento padronizado pode aumentar a produtividade das equipes evitando retrabalhos e conflitos com times de operação na hora de realizar deploy em produção.</p>
                     </td>
                 </tr>
                 <tr class="icon coffee">
@@ -231,7 +231,7 @@
                     <td>
                         <small>Eduardo Cesar</small>
                         <span>Porque escolhemos o Laravel - uma visão que está além do ponto de vista técnico</span>
-                        <p></p>
+                        <p>Adotar um framework em um ambiente corporativo é um desafio que envolve muito mais que questões técnicas, o peopleware que está em volta desse processo é peça fundamental. Nesta apresentação serão levantados pontos que foram relevantes para adoção de um framework e como o Laravel se encaixou bem dentro desse cenário.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
@@ -241,7 +241,7 @@
                     <td>
                         <small>Vinicius Reis</small>
                         <span>Domínios, do monolítico ao micro-servico</span>
-                        <p></p>
+                        <p>Arquitetura de de software vai além de organização de classes e arquivos. Com sistemas mais complexos e grandes demandas para se adaptar e evoluir rapidamente, pensar em domínios e micro-serviços é importante para se conseguir bons resultados. O objetivo aqui é explorar esta dinâmica em suas várias formas.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
