@@ -148,6 +148,7 @@
                 <p>Porque escolhemos o Laravel - uma visão que está além do ponto de vista técnico</p>
                 <div class="social-media">
                     <a href="https://github.com/Bolinha1" target="_blank" class="icon github" title="Github">Github</a>
+                    <a href="http://www.zarpsystem.com.br/" target="_blank" class="icon company" title="Empresa">Empresa</a>
                 </div>
             </figcaption>
         </figure>
