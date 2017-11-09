@@ -10,4 +10,4 @@ deploy:
   provider: script
   script: docpad deploy-ghpages --env static
   on:
-    branch: master
+    all_branches: true
