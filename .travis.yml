@@ -3,11 +3,12 @@ before_script:
 - chmod +x ./prebuild.sh
 - ./prebuild.sh
 - gem install sass -v 3.4.25
-script:
-- docpad deploy-ghpages --env static
 env:
   global:
   - GH_REPO="laraconfbrasil/website"
-branches:
-  only:
-  - master
+script: docpad generate
+deploy:
+  provider: script
+  script: docpad deploy-ghpages --env static
+  on:
+    branch: master
