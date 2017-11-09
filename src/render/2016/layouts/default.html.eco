@@ -7,8 +7,8 @@
 
     <meta property="og:title" content="#LaraconfBrasil - A conferência para artesãos da web"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="http://laraconfbrasil.com.br"/>
-    <meta property="og:image" content="http://laraconfbrasil.com.br/img/laravel_logo.png"/>
+    <meta property="og:url" content="https://laraconfbrasil.com.br"/>
+    <meta property="og:image" content="https://laraconfbrasil.com.br/img/laravel_logo.png"/>
 
     <meta name="description"
           content="A #LaraconfBrasil e a primeira conferencia realizada com foco totalmente em Laravel e na comunidade PHP. E você vai ficar de fora ? Reserve na sua agenda o dia 08 de outubro de 2016">
@@ -35,7 +35,7 @@
     <%- @content %>
 
 
-    <%- @getBlock("scripts").add(["/js/vendor/jquery12.js", "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js","js/main.js"]).toHTML() %>
+    <%- @getBlock("scripts").add(["/js/vendor/jquery12.js", "//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js","js/main.js"]).toHTML() %>
 
     <script>
         (function (i, s, o, g, r, a, m) {
