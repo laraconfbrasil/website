@@ -115,9 +115,9 @@
             </figcaption>
         </figure>
         <figure class="palestrante ">
-            <img src="img/speakers/speaker9.jpg" alt="Camila Silva Fernande"/>
+            <img src="img/speakers/speaker9.jpg" alt="Camila Silva Fernandes"/>
             <figcaption>
-                <h4>Camila Silva Fernande</h4>
+                <h4>Camila Silva Fernandes</h4>
                 <span> &nbsp; </span>
                 <p>API RESTful com Laravel</p>
                 <div class="social-media">
