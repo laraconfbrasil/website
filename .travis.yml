@@ -5,10 +5,10 @@ before_script:
 env:
   global:
   - GH_REPO="laraconfbrasil/website"
-script: docpad generate
-deploy:
-  skip_cleanup: true
-  provider: script
-  script: docpad deploy-ghpages --env static
-  on:
-    all_branches: true
+
+stages:
+  - name: build
+    script: docpad generate
+  - name: deploy
+    script: docpad deploy-ghpages --env static
+#    if: branch = master
