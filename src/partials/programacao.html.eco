@@ -249,9 +249,9 @@
                         <time datetime="2016-08-10 17:00:00">17:00</time>
                     </td>
                     <td>
-                        <small>Diego hernandes</small>
+                        <small>Diego Hernandes</small>
                         <span>Laravel: O Estado da Arte</span>
-                        <p></p>
+                        <p>Conheça a trajetória, conceitos, filosofia e comunidades que transformaram uma pequena biblioteca PHP em um das ferramentas de desenvolvimento mais utilizados do mundo! Uma reflexão sobre o passado, presente e futuro do desenvolvimento de software do ponto de vista humanista.</p>
                     </td>
                 </tr>
             </tbody>
