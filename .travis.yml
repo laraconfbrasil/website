@@ -5,10 +5,8 @@ before_script:
 env:
   global:
   - GH_REPO="laraconfbrasil/website"
-
-stages:
-  - name: build
-    script: docpad generate
-  - name: deploy
-    script: docpad deploy-ghpages --env static
-#    if: branch = master
+script: docpad generate
+after_success:
+  - test $TRAVIS_BRANCH = "master" &&
+    test $TRAVIS_PULL_REQUEST = "false" &&
+    docpad deploy-ghpages --env static
