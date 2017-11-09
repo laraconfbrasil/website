@@ -5,7 +5,7 @@
             <img src="img/speakers/speaker1.jpg" alt="Fábio Vedovelli">
             <figcaption>
                 <h4>Fábio Vedovelli</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Apenas Laravel não basta!</p>
                 <div class="social-media">
                     <a href="https://github.com/vedovelli" target="_blank" class="icon github" title="Github">Github</a>
@@ -19,7 +19,7 @@
             <img src="img/speakers/speaker2.jpeg" alt="Diego Hernandes"/>
             <figcaption>
                 <h4>Diego Hernandes</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Laravel: O Estado da Arte</p>
                 <div class="social-media">
                     <a href="https://github.com/hernandev" target="_blank" class="icon github" title="Github">Github</a>
@@ -34,7 +34,7 @@
             <img src="img/speakers/speaker3.jpeg" alt="Lucas Pires Mattos"/>
             <figcaption>
                 <h4>Lucas Pires Mattos</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Criando pacotes com Laravel</p>
                 <div class="social-media">
                     <a href="https://github.com/flyingluscas" target="_blank" class="icon github" title="Github">Github</a>
@@ -48,7 +48,7 @@
             <img src="img/speakers/speaker4.jpg" alt="Marcos Felipe Nalin Furtado"/>
             <figcaption>
                 <h4>Marcos Felipe Nalin Furtado</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Design pattern não é apenas SOLID</p>
                 <div class="social-media">
                     <a href="https://github.com/omarkdev" target="_blank" class="icon github" title="Github">Github</a>
@@ -62,7 +62,7 @@
             <img src="img/speakers/speaker5.jpeg" alt="Vinícius Bail Alonso"/>
             <figcaption>
                 <h4>Vinícius Bail Alonso</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Clean Code: como tornar nossos códigos legiveis para seres humanos</p>
                 <div class="social-media">
                     <a href="https://github.com/viniciusalonso" target="_blank" class="icon github" title="Github">Github</a>
@@ -76,7 +76,7 @@
             <img src="img/speakers/speaker6.jpeg" alt="Guilherme Guitte"/>
             <figcaption>
                 <h4>Guilherme Guitte</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Testes automatizados: Tomando as rédeas do seu código (ou de outros)</p>
                 <div class="social-media">
                     <a href="https://github.com/GuilhermeGuitte" target="_blank" class="icon github" title="Github">Github</a>
@@ -90,7 +90,7 @@
             <img src="img/speakers/speaker8.jpg" alt="Ricardo Plansky Jr."/>
             <figcaption>
                 <h4>Ricardo Plansky Jr.</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Como construir um MVP com design de código evolutivo guiado a testes</p>
                 <div class="social-media">
                     <a href="https://github.com/rplansky" target="_blank" class="icon github" title="Github">Github</a>
@@ -102,7 +102,7 @@
             <img src="img/speakers/speaker9.jpg" alt="Camila Silva Fernande"/>
             <figcaption>
                 <h4>Camila Silva Fernande</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>API Restfull com Laravel</p>
                 <div class="social-media">
                     <a href="https://github.com/Camilafernandes" target="_blank" class="icon github" title="Github">Github</a>
@@ -115,7 +115,7 @@
             <img src="img/speakers/speaker10.jpg" alt="Gabriel Caruso"/>
             <figcaption>
                 <h4>Gabriel Caruso</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Collections, uma solução?!</p>
                 <div class="social-media">
                     <a href="https://github.com/gabriel-caruso" target="_blank" class="icon github" title="Github">Github</a>
@@ -141,7 +141,7 @@
             <img src="img/speakers/speaker12.jpeg" alt="Eduardo Cesar"/>
             <figcaption>
                 <h4>Eduardo Cesar</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Porque escolhemos o Laravel - uma visão que está além do ponto de vista técnico</p>
                 <div class="social-media">
                     <a href="https://github.com/Bolinha1" target="_blank" class="icon github" title="Github">Github</a>
@@ -152,7 +152,7 @@
             <img src="img/speakers/speaker13.jpeg" alt="Gabriel Koerich"/>
             <figcaption>
                 <h4>Gabriel Koerich</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Workflow & Infra para aplicações web</p>
                 <div class="social-media">
                     <a href="https://github.com/gabrielkoerich" target="_blank" class="icon github" title="Github">Github</a>
@@ -165,7 +165,7 @@
             <img src="img/speakers/speaker14.jpeg" alt="Vitor Talaia"/>
             <figcaption>
                 <h4>Vitor Talaia</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Aplicações CLI com Crystal</p>
                 <div class="social-media">
                     <a href="https://github.com/vitortalaia" target="_blank" class="icon github" title="Github">Github</a>
@@ -179,7 +179,7 @@
             <img src="img/speakers/speaker15.jpeg" alt="Leandro Costa Martins"/>
             <figcaption>
                 <h4>Leandro Costa Martins</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Provisionando seu ambiente Laravel com Ansible</p>
                 <div class="social-media">
                     <a href="https://github.com/leandrocostam" target="_blank" class="icon github" title="Github">Github</a>
@@ -193,7 +193,7 @@
             <img src="img/speakers/speaker16.jpeg" alt="Erik Vanderlei Fernandes"/>
             <figcaption>
                 <h4>Erik Vanderlei Fernandes</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Laravel e seu ecossistema</p>
                 <div class="social-media">
                     <a href="https://github.com/erikprogramador" target="_blank" class="icon github" title="Github">Github</a>
@@ -206,7 +206,7 @@
             <img src="img/speakers/speaker17.jpg" alt="Vinicius Reis"/>
             <figcaption>
                 <h4>Vinicius Reis</h4>
-                <span> &nbsp </span>
+                <span> &nbsp; </span>
                 <p>Domínios, do monolítico ao micro-servico</p>
                 <div class="social-media">
                   <a href="https://github.com/vinicius73" target="_blank" class="icon github" title="Github">Github</a>
