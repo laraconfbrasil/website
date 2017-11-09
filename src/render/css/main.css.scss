@@ -59,6 +59,10 @@ $white: #fff;
     }
 }
 
+.palestra p {
+    text-align: justify;
+}
+
 .btn{
     padding: 10px 14px;
     font-size: 19px;
@@ -903,6 +907,7 @@ body > section{
                     }
                     &.company{
                         background-image: url(../img/icon_company_gray.svg);
+                    }
                     &.github{
                         background-image: url(../img/icon_github_gray.svg);
                     }

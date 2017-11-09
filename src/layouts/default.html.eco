@@ -38,7 +38,7 @@
     <%- @content %>
 
 
-    <%- @getBlock("scripts").add(["/js/vendor/jquery12.js", "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js","js/main.js"]).toHTML() %>
+    <%- @getBlock("scripts").add(["/js/vendor/jquery12.js", "//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js","js/main.js"]).toHTML() %>
 
     <script>
         (function (i, s, o, g, r, a, m) {
