@@ -65,8 +65,8 @@
                     </td>
                     <td>
                         <small>Marcos Felipe Nalin Furtado</small>
-                        <span>Design patterns não é apenas SOLID</span>
-                        <p>Quando se fala de Design Patterns, na maioria dos casos sempre vemos sobre SOLID, mas existe um mundo além do SOLID.</p>
+                        <span>O mundo além do SOLID e dos Design Patterns</span>
+                        <p>Adotar um Design Pattern e falar que SOLID deve ser usado é fácil, porém isso tem um efeito colateral e pode ser mais custoso do que um resolvedor de problemas, devemos saber e ver o mundo além da aplicação dos Design Patterns e dos princípios S.O.L.I.D.</p>
                     </td>
                 </tr>
                 <tr class="icon palestra">
