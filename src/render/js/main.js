@@ -36,7 +36,7 @@ function animate(time,callback){
     var go = function (){
         var timePassed = new Date() - now;
         var prop = timePassed/time;
-        
+
         if (timePassed < time){
             interval = setTimeout(function (){
                 go();
@@ -50,7 +50,7 @@ function animate(time,callback){
     go();
 }
 
-[].forEach.call(qsa("#header a, #banner .wrapper > a"),function (el){
+[].forEach.call(qsa("#header a"),function (el){
     el.onclick=function (ev){
         ev.preventDefault();
         var sectionId = el.getAttribute('href');
@@ -73,8 +73,7 @@ document.onready=function (ev){
     [].forEach.call(qsa('.grade'), function (element) {
         element.onclick = function (event) {
             event.preventDefault();
-            
-            
+
             if (this.id == 'dia17') {
                 qs('#grade-dia17').className = '';
                 qs('#grade-dia18').className = 'esconder';
@@ -99,10 +98,10 @@ qs("#btnHamburgerMenu").onclick = function(ev){
 }
 
 window.onscroll=function (ev){
-    var 
+    var
     y = window.scrollY,
     menuHeight = qs("#header").offsetHeight;
-    
+
     if (y > menuHeight){
         cabecalho.className = "active";
     }else{
