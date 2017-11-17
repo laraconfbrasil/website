@@ -232,5 +232,17 @@
                 </div>
             </figcaption>
         </figure>
+
+        <figure class="palestrante ">
+            <img src="img/speakers/speaker18.jpg" alt="Wilton Guilherme"/>
+            <figcaption>
+                <h4>Wilton Guilherme</h4>
+                <span> &nbsp; </span>
+                <p>Produtividade no Desenvolvimento usando Laravel com Docker</p>
+                <div class="social-media">
+                  <a href="https://www.facebook.com/wilton.guilherme" target="_blank" class="icon facebook" title="Facebook">Facebook</a>
+                </div>
+            </figcaption>
+        </figure>
     </div>
 </section>
