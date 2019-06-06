@@ -8,22 +8,6 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
 <header id="header">
     <div class="container">
         <h1 id="logo"><a href="#banner" title="#LaraconfBrasil">#LaraconfBrasil</a></h1>
-        <a id="btnHamburgerMenu" href="#" title="Abrir Menu">
-            <span></span>
-            <span></span>
-            <span></span>
-        </a>
-        <nav>
-            <ul>
-                <li><a href="#palestrantes" title="palestrantes">palestrantes</a></li>
-                <li><a href="#programacao" title="programação">programação</a></li>
-                <li><a href="#parcerias" title="parcerias">parcerias</a></li>
-                <li><a href="#onde" title="onde?">onde?</a></li>
-                <li class="highlight"><a href="#ingressos" title="ingressos">ingressos</a></li>
-                <li><a href="#contato" title="contato">contato</a></li>
-            </ul>
-        </nav>
-
     </div>
 </header>
 
@@ -31,117 +15,15 @@ image: http://laraconfbrasil.com.br/img/laravel_logo.png
     <div class="container">
         <div class="wrapper">
             <figure>
-                <img src="img/laravel_logo.png" alt="Laraconf2016">
-                <figcaption>17 e 18 de Novembro de 2017</figcaption>
+                <img src="img/laravel_logo.png" alt="LaraconfBrasil logo">
+                <figcaption></figcaption>
                 <small>O MAIOR EVENTO DE</small> <h2>LARAVEL</h2> <small>DO BRASIL</small>
             </figure>
-            <a class="btn btn-border" href="https://www.webmeeting.com.br/?code=WJ6EU&password=48AB1" target="_blank" title="ASSISTA ONLINE!">ASSISTA ONLINE!</a>
+            <a class="btn btn-border" href="/2016/render" title="Veja como foi a edição 2016">Edição 2016</a>
+            <a class="btn btn-border" href="/2017" title="Veja como foi a edição 2017">Edição 2017</a>
             <div class="social-media">
                 <a href="https://www.facebook.com/laravelconferencebrasil" title="Acompanhe também o nosso Facebook!" class="icon-button facebook">Acompanhe também o nosso Facebook!</a>
             </div>
         </div>
     </div>
-    <div class="scroll-down">
-        <span class="arrow"></span>
-    </div>
 </main>
-
-<section id="sobre">
-    <div class="container">
-        <h3>SOBRE A #LARACONFBRASIL</h3>
-        <p>
-            Primeiro evento exclusivamente dedicado ao Laravel, com diversas 
-            palestras de pessoas da comunidade e antenadas não somente no mundo 
-            laravel mas também do PHP respeitando todo o  
-            nosso <a href="/conduta.html" title="código de conduta">código de conduta</a>
-        </p>
-    </div>
-</section>
-
-<%- @partial('palestrantes') %>
-<%- @partial('programacao') %>
-
-<section id="parcerias">
-    <h2>Parcerias</h2>
-    <section class="patrocinadores">
-        <h3>Patrocinadores</h3>
-        <div class="gold">
-            <h4>GOLD</h4>
-            <div class="grid">
-                <a href="https://www.schoolofnet.com/" target="_blank" title="School of Net Cursos de Programação">
-                    <img class="height-100" src="img/sponsors/school-of-net.png" alt="School of Net"/>
-                </a>
-                <a href="https://www.webmeeting.com.br/" target="_blank" title="Webmeeting Conferências e Web Streaming">
-                    <img class="height-100" src="img/sponsors/webmeeting.png" alt="Webmeeting">
-                </a>
-                <a href="https://www.tbfhost.com.br/" target="_blank" title="TBF - Soluções em Núvem">
-                    <img class="height-60" src="img/sponsors/tbf.png" alt="TBF HOST"/>
-                </a>
-                <a href="https://www.leroymerlin.com.br/" target="_blank" title="Leroy Merlin - A casa da sua casa">
-                    <img class="height-60" src="img/sponsors/leroy.jpg" alt="Leroy Merlin"/>
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <section class="comunidades">
-        <h3>Comunidades</h3>
-        <div class="grid">
-            <a href="https://www.facebook.com/groups/laravelsp/" target="_blank" title="Comunidade Laravel São Paulo">
-                <img class="height-100" src="img/communities/logo_laravel_sp.png" alt="Laravel São Paulo" />
-            </a>
-            <a href="http://phpcomrapadura.org/" target="_blank" title="Comunidade PHP Com Rapadura">
-                <img src="img/communities/phpcomrapadura.png" alt="PHP com rapadura">
-            </a>
-            <a href="http://www.phpdf.org.br/" target="_blank" title="Comunidade PHP Distrito Federal">
-                <img src="img/communities/php_df.png" alt="PHP DF - Comunidade de desenvolvedores PHP do Distrito Federal">
-            </a>
-            <a href="http://www.rumoacertificacaophp.com/" target="_blank" title="Comunidade Rumo a Certificação PHP">
-                <img src="img/communities/ruma_a_certificacao.png" alt="Rumo a certificaçao PHP">
-            </a>
-            <a href="http://www.phprs.com.br/" target="_blank" title="Comunidade PHP Rio Grande so Sul">
-                <img src="img/communities/phprs.png" alt="Comunidade de desenvolvedores do Rio Grande do Sul" title="Comunidade de desenvolvedores do Rio Grande do Sul">
-            </a>
-            <a href="http://www.phpsp.org.br/" target="_blank" title="Comunidade PHP São Paulo">
-                <img src="img/communities/phpsp.png" alt="Comunidade de desenvolvedores de São Paulo" title="Comunidade de desenvolvedores de São Paulo">
-            </a>
-             <a href="https://www.phpmaranhao.com.br/" target="_blank" title="PHP Maranhão">
-                <img src="img/support/phpma.png" alt="PHP Maranhão" />
-            </a>
-        </div>
-    </section>
-
-    <section class="apoios">
-        <h3>Apoios</h3>
-        <div class="grid">
-            <a href="https://codecasts.com.br/lesson" target="_blank" title="CODECASTS">
-                <img src="img/support/codecast.png" alt="CODECASTS" />
-            </a>
-            <a href="https://www.casadocodigo.com.br/" target="_blank" title="Editora Casa do Código">
-                <img src="img/support/casa-do-codigo.png" alt="Editora Casa do código" />
-            </a>
-            <a href="https://sejakino.com.br/contabilidade-online" target="_blank" title="Contabilidade Online">
-                <img src="img/support/kino.png" alt="Kino contabilidade" />
-            </a>
-            <a href="https://imasters.com.br" target="_blank" title="Imasters">
-                <img src="img/support/imasters.png" alt="Imasters" />
-            </a>
-            <a href="https://www.meetup.com/Laravel-SP" target="_blank" title="Laravel SP">
-                <img src="img/support/laravelsp.png" alt="Laravel SP" />
-            </a>
-            <a href="https://www.meetup.com/THT-Things-Hacker-Team" target="_blank" title="Things Hacker Team">
-                <img src="img/support/tht.png" alt="Things Hacker Team" />
-            </a>
-        </div>
-    </section>
-</section>
-
-<%- @partial('mapa') %>
-<%- @partial('ingressos') %>
-<%- @partial('contato') %>
-<%- @partial('dicas') %>
-
-<footer>
-    <div class="container"></div>
-</footer>
-
