@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "description": "Conference website",
   "dependencies": {
-    "docpad": "^6.82.5",
-    "docpad-plugin-eco": "~2.1.0",
-    "docpad-plugin-ghpages": "~2.4.4",
-    "docpad-plugin-livereload": "^2.10.0",
+    "docpad": "~6.70.0",
+    "docpad-plugin-eco": "^2.3.0",
+    "docpad-plugin-ghpages": "^2.6.*",
     "docpad-plugin-partials": "~2.9.2",
     "docpad-plugin-sass": "~2.8.0"
+  },
+  "dev-dependencies": {
+    "docpad-plugin-livereload": "^2.10.0"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
