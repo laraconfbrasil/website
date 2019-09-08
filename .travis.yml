@@ -7,7 +7,7 @@ before_script:
 env:
   global:
   - GH_REPO="laraconfbrasil/website"
-script: docpad generate
+script: docpad generate --debug --silent --env static
 after_success:
   - test $TRAVIS_BRANCH = "master" &&
     test $TRAVIS_PULL_REQUEST = "false" &&
