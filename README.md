@@ -5,7 +5,7 @@
 
 * [LaraconfBrasil 2016](http://laraconfbrasil.com.br/2016/render/)
 
-# LaraconfBrasil website
+# LaraconfBrasil website/offical website
 
 Esse é o repositório oficial com o código fonte do [LaraconfBrasil](http://laraconfbrasil.com.br) onde utilizamos
 o HTML5 boilerplate como base.
