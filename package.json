@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Conference website",
   "dependencies": {
-    "docpad": "~6.70.0",
+    "docpad": "~6.83.2",
     "docpad-plugin-eco": "^2.3.0",
     "docpad-plugin-ghpages": "^2.6.*",
     "docpad-plugin-partials": "~2.9.2",
